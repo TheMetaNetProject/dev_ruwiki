@@ -1,0 +1,24 @@
+{{Frame
+|FrameNet frame=Bounded_region
+|Comments=this frame does not include the Ground or Surface FE's of FNet Bounded-region frame
+|Type=Cog
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=exterior
+|Role.Type=region
+|Role.FrameNet role=Exterior
+}}{{Role
+|Role.Name=interior
+|Role.Type=region
+|Role.FrameNet role=Interior
+}}{{Role
+|Role.Name=boundary
+|Role.FrameNet role=Boundary
+}}
+|Related frames=
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=topological structure is such that exterior and interior are separated by boundary.
+}}
+|Relevant LUs=
+}}

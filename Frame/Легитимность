@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Legitimacy
+|Family=Cхемы Управления, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Доверие
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=законность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Легитимность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=закономерность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=законный.a
+}}
+|LinkEnglish=Legitimacy
+|Applicability=Russian
+}}

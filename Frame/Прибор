@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Tools
+|Status=in development
+|Entered by=Patricia,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=измерения.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=измерять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=измеряться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=измерить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=измериться.v
+}}
+|Applicability=Russian
+}}

@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=Being at a_High Location
+|Family=Схемы местонахождения
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=быть в местонахождении
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=верх.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вершина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=максимум.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пиковый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=максимальный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высший.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пик.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высокий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=верхний.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высокопоставленный.a
+}}
+|LinkEnglish=Being at a High Location
+}}

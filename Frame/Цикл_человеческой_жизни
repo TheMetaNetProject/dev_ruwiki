@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=Cycle of_human life
+|Type=Frame
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Цикл
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=жизненный.a цикл.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=молодость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=молодой.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=старость.n
+}}
+|LinkEnglish=Life cycle
+|Applicability=Russian
+}}

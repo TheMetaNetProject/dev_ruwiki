@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=Diagnosis of_affliction
+|Family=Вред, Вред живому существу, 
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot, 
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Физический вред
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=симптом.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=диагностировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=диагностика.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=диагноз.n
+}}
+|LinkEnglish=Diagnosis of affliction
+}}

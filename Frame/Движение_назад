@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Movement backward
+|Family=Cхемы движения
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Изменение местонахождения
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение по пути
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Движение вперёд
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отставать.v
+}}
+|LinkEnglish=Moving backward
+|Applicability=Russian
+}}

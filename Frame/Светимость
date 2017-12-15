@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=Lightness
+|Family=Схемы восприятия,
+|Entered by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=темнота
+}}{{Related frame
+|Related frame.Name=светимость
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=яркость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лёгкость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=светлеть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=яркий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ярко.adv
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=проясняться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=светлый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=освещённый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=солнечный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=блеск.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Светимость.n
+}}
+|LinkEnglish=Lightness
+|Applicability=Russian
+}}

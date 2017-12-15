@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=GOVERNMENT - IS A_BUSINESS
+|Aliases=
+|Family=Метафоры управления,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Бизнес
+|Target frame=Правительство
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=УЧРЕЖДЕНИЕ - ЭТО БИЗНЕС
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Ни для кого уже не секрет,что правительство это предприятие у котрого есть цена,есть продукция(законы),хозяин.
+|Example.Gloss=Not for longer no secret, that government is enterprise in which there_is price, there_are products (laws), owner.
+|Example.English translation=It is no longer a secret that the government is an enterprise that has a price, there are products (laws), and the owner.
+|Example.Provenance=http://www.zizer.ru/forum/viewtopic.php?f=3&t=1360&start=120&view=print
+}}
+|Entered by=Kristina,
+|Status=in development
+|LinkEnglish=GOVERNMENT IS A BUSINESS
+|Investigated for=Russian
+}}

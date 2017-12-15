@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=Citizen participation
+|Other aliases=civic engagement, civic involvement 
+|Family=Схемы Демократии, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Граждане
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Гражданственность
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Участие
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гражданское.a участие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гражданская.a вовлеченность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гражданский.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=цивильный.a
+}}
+|LinkEnglish=Citizen participation
+|Applicability=Russian
+}}

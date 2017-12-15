@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=CAREFUL ACTION - IS CAREFUL MOTION ALONG PATH
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ОСТОРОЖНОЕ ДЕЙСТВИЕ - ЭТО OСТОРОЖНОЕ ДВИЖЕНИE ПО ПУТИ
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=188
+}}
+|Family=Метафора структуры события,Метафора структуры события - локация
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Experiential basis=движение
+|Source frame=Движение_по_пути
+|Target frame=действие
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО ДВИЖЕНИЕ ПО ПУТИ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=И я на цыпочках ходил по ободку карьера, башку держал отвесом позвонков ― в кувшине.
+|Example.Gloss=And I on chickens walked on verge career, head holding vertically spin - in pitcher.
+|Example.English translation=And I walked on eggshells being on the verge of a career, holding my head high - in the pitcher.
+|Example.Provenance=http://search.ruscorpora.ru
+}}
+|Entered by=Kristina,
+|Last reviewed by=Aleksandra
+|Status=in development
+|Investigated for=Russian
+}}

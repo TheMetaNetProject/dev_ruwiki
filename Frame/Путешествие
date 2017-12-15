@@ -1,0 +1,75 @@
+{{Frame
+|Name gloss=Journey
+|FrameNet frame=Travel
+|Comments=Определение путешествия: длинная последовательность движений в одном или нескольких направлениях.
+|Type=Frame, Composed
+|Cultural information=A journey is a purposeful, meaningful traveling event, with associated personal and cultural meaning. It is different from simple traveling because the goal is more meaningful in terms of long- or short-term life goals. Traveling profiles the process of motion along a path, while journey profiles the goal.
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=путешественник
+|Role.Name gloss=traveler
+}}{{Role
+|Role.Name=путешествие_начало
+|Role.Name gloss=journey_beginning
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=путешествие_конец
+|Role.Name gloss=journey_end
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=путешествие_спутник
+|Role.Name gloss=journey_companion
+}}{{Role
+|Role.Name=путешествие_способ
+|Role.Name gloss=journey_means
+}}{{Role
+|Role.Name=курс_путешествия
+|Role.Name gloss=course_of_journey
+}}
+|Related frames=
+|Bindings={{Binding
+|Binding.Local role=journey_means
+|Binding.Bound role=Travel.vehicle
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=путешествие.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=поездка.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=путешествовать.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=курс.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=плавание.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ходить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=потеряться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=застрять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=застревать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=затеять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=затевать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=путь.n
+}}
+|LinkEnglish=Journey
+|Applicability=English
+}}

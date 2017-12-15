@@ -1,0 +1,32 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|Comments=Examples: poverty infects ...
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source doc:hasPOS ?spos .
+	?target doc:hasPOS ?tpos .
+	FILTER regex(?spos, "^V") .
+	FILTER regex(?tpos, "^N") .
+    {
+    	?target doc:subj ?source .
+    } UNION {
+        ?otherv rdf:type doc:Word .
+        ?otherv doc:inSentence ?sent .
+        ?otherv doc:hasPOS ?opos .
+        FILTER regex(?opos, "^V") .
+        ?target doc:subj ?otherv .
+        ?source doc:conj+ ?otherv .
+    }
+}
+}}

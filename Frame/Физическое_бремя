@@ -1,0 +1,77 @@
+{{Frame
+|Name gloss=Physical burden
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Patricia, Kristina,
+|Roles={{Role
+|Role.Name=Бремя
+|Role.Name gloss=burden
+}}{{Role
+|Role.Name=вес_бремени
+|Role.Name gloss=weight_of_burden
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Вес
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бремя.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тяжелый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=послабление.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тяжесть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=давить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нагрузка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нагружать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=облегчение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=жёсткость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=штамм.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отягощать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оттягивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грузить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вес.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=снимать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обложить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отягчить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обременительный.a
+}}
+|LinkEnglish=Burden
+}}

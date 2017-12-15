@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=BECOMING IMMORAL is MOVING DOWNWARDS ON THE PATH
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=СТАНОВИТЬСЯ БЕЗНРАВСТВЕННЫМ - ЭТО ДВИГАТЬСЯ ВНИЗ
+|Metaphor.Alias.Provenance=(Inna)
+}}
+|Family=Метафоры Морали, Метафора структуры события
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=двигаться вниз по пути
+|Target frame=становиться безнравственным
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=MORALITY is UPRIGHTNESS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Но я согласен, что в тех случаях, когда один из супругов опустился морально, пошел по наклонной и не считается ни с каким мнением, остается только один выход: развод
+|Example.Gloss=But i agree that in cases when one of the spouses went down morally,went downhill and doesn't care about any opinions left is only one way: divorce
+|Example.English translation=But I agree that if a husband or wife became immoral, went downhill doesn't care what others think of it, there is only one way out - divorce.
+|Example.Provenance=ruscorpora.ru
+}}
+|Entered by=Inna
+|Status=in development
+|Investigated for=Russian
+}}

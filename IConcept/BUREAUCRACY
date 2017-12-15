@@ -1,0 +1,15 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Бюрократия
+}}{{Linked frame
+|Frame name=Регулирование
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}

@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=Access
+|FrameNet frame=Access_scenario
+|Family=Схемы препятствия и обеспечения, Схемы местонахождения
+|Type=Cog
+|Status=in development
+|Entered by=Kristina,
+|Last reviewed by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Барьер
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доступ.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=проход.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пустить.v
+}}
+|LinkEnglish=Access
+|Applicability=Russian
+}}

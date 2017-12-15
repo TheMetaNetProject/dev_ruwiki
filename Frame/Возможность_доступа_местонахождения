@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=Ability to_access a_location
+|Family=Схемы местонахождения, Схемы препятствия и обеспечения, Cхемы Bлияющие на Движение,Cхемы движения
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot, 
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=изменение местонахождения
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Невозможность  доступа  местонахождения
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Легкость  доступа  местонахождению
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Доступ
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Доступ местонахождению
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+}}
+}}

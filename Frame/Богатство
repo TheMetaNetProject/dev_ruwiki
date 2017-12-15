@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=Wealth
+|Family=Схемы Богатство
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сокровища.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=роскошь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=олигарх.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=собственность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=завод.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=промышленность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капиталист.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капиталистический.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=элита.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капитал.n
+}}
+|LinkEnglish=Wealth
+}}

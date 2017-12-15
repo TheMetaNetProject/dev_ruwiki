@@ -1,0 +1,68 @@
+{{Frame
+|Name gloss=Opponent in a_struggle
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Patricia, Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Антагонистическая сила
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уберечь.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=воевать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=защитить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выиграть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бороться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грозить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=захватить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=угрожать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=схватка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=армия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=победить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=победа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=удержаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бореться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=борьба.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=борец.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=враг.n
+}}
+|LinkEnglish=Physical combat
+}}

@@ -1,0 +1,103 @@
+{{Frame
+|Name gloss=Resource
+|Family=Схемы ресурсов,
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Last reviewed by=Kristina,
+|Roles={{Role
+|Role.Name=ресурс
+|Role.Name gloss=resource
+}}{{Role
+|Role.Name=тип
+|Role.Name gloss=type
+}}{{Role
+|Role.Name=количество
+|Role.Name gloss=amount
+|Role.Type=Kоличество
+}}{{Role
+|Role.Name=цель
+|Role.Name gloss=purpose
+}}{{Role
+|Role.Name=пользователь_ресурса
+|Role.Name gloss=resource_user
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ресурс.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=товар.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=продукт.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=топливо.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поставка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=истощать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=скудный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=дефицитный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=недостаточный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перемещать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ассигновать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поставлять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перераспределять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перераспределение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сократить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сокращать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=снизить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=распределение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=исчезновение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сеять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=придать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нехватка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=резерв.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=концентрироваться.v
+}}
+|LinkEnglish=Resource
+|Applicability=Russian
+}}

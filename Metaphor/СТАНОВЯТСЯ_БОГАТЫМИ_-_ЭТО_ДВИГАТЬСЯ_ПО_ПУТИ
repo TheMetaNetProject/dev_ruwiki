@@ -1,0 +1,41 @@
+{{Metaphor
+|Name gloss=BECOMING RICH - IS MOTION ALONG A_PATH
+|Aliases=
+|Tags=Program sources
+|Family=Метафоры Богатство
+|Metaphor Level=Specific
+|Source frame=двигаться по пути до местонахождения
+|Target frame=становятся богатыми
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ЦЕЛЕУСТРЕМЛЕННОЕ ДЕЙСТВИЕ - ЭТО    ДВИЖЕНИЕ ПО ПУТИ
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=УЛУЧШЕНИЕ СОСТОЯНИЯ - ЭТО ДВИЖЕНИЕ ПО ПУТИ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Чтобы открыть для себя путь к богатству – для этого нужно созреть!
+|Example.Gloss=To discover for yourself path to wealth - for that needs maturity!
+|Example.English translation=To discover your way to wealth - you need to be mature!
+|Example.Provenance=http://www.nelevex.com/2012/08/31/prichiny-bednosti/
+}}{{Example
+|Example.Language=Russian
+|Example.Text=С чего начинается путь к богатству.
+|Example.Gloss=From where starts pathway to wealth?
+|Example.English translation=Where does the pathway to wealth start?
+|Example.Provenance=mlm-dva.ru/.../put-k-bogatstvu-s-chego-nach
+}}{{Example
+|Example.Language=Russian
+|Example.Text=На пути к богатству встречаются трудности, но нельзя останавливаться и сдаваться.
+|Example.Gloss=On path to wealth meet difficulties, but must_not stop and give_up.
+|Example.English translation=On the way to the wealth you might experience some difficulties, but do not stop and give up.
+|Example.Provenance=2rich.ru/
+}}
+|Entered by=Metabot,
+|Last reviewed by=Kristina
+|Status=in development, auto imported
+|LinkEnglish=IMPROVING A STATE IS MOTION ALONG A PATH
+}}

@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=Civicism
+|Family=Схемы Демократии, 
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Граждане
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гражданственность.n
+}}
+|LinkEnglish=Citizen participation
+|Applicability=Russian
+}}

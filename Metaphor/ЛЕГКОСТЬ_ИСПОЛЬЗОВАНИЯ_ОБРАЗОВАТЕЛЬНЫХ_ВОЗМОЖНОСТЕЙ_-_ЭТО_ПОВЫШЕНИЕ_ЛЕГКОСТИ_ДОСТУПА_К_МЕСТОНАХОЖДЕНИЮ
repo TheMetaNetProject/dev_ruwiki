@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=EASE OF_UTILIZING EDUCATIONAL OPPORTUNITIES - IS INCREASE EASE OF_ACCESSING TO A_LOCATION
+|Aliases=
+|Tags=Program sources
+|Family=Метафоры Доступ к образованию
+|Metaphor Level=Specific
+|Source frame=Повышение легкости  доступа местонахождению
+|Target frame=Образовательные возможности
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ИЗМЕНЕНИЕ СОСТОЯНИЯ - ЭТО ИЗМЕНЕНИЕ МЕСТОНАХОЖДЕНИЯ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=В Украине отмечается тенденция к сужению доступа к высшему образованию.
+|Example.Gloss=In Ukraine, there_is a_trend towards narrowing access to a_higher education.
+|Example.English translation=In Ukraine, there is a trend towards narrowing access to a higher education.
+|Example.Provenance=rus.newsru.ua › 12 августа 2012 г. › Украина‎
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Основной чертой вступительной кампании, которая завершена, стало сужение доступа к высшему образованию
+|Example.Gloss=The_main line of_the_introductory campaign, that is_completed, became the_narrowing of_access to higher education
+|Example.English translation=The main feature of the introductory campaign that is completed, became the narrowing of access to higher education
+|Example.Provenance=www.unn.com.ua/.../886768-vstupitelnaya-kampaniya
+}}
+|Entered by=Metabot,
+|Last reviewed by=Kristina
+|Status=in development, auto imported
+|LinkEnglish=EASE OF UTILIZING EDUCATIONAL OPPORTUNITIES IS INCREASE EASE OF ACCESSING A LOCATION
+}}

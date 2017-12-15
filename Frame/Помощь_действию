@@ -1,0 +1,17 @@
+{{Frame
+|Name gloss=Aids to_action
+|Family=Схемы действий, 
+|Type=Cog
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Действие
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Aids to action
+|Applicability=Russian
+}}

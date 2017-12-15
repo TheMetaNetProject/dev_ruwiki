@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=Being rich
+|Family=Схемы Богатство
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot, 
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=быть в состоянии
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=состояние
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Быть бедной
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=собственность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=роскошный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатые.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богачи.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богач.n
+}}
+|LinkEnglish=Being wealthy
+}}

@@ -1,0 +1,22 @@
+{{Frame
+|Name gloss=Political equality
+|Family=Схемы политики
+|Type=Frame
+|Entered by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Демократия
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Равноправие
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Права
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Political equality
+|Applicability=Russian
+}}

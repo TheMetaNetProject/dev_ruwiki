@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=Growth
+|Entered by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Шкала
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рост.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=развитие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=прирост.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=развивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=расти.v
+}}
+|Applicability=Russian
+}}

@@ -1,0 +1,68 @@
+{{Frame
+|Name gloss=Political region
+|FrameNet frame=Political_locales
+|Comments=предварительная схема для стран и других геополитических регионов
+|Family=Cхемы Управления, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles={{Role
+|Role.Name=место
+|Role.Name gloss=locale 
+|Role.Definition=стабильная ограниченная область
+|Role.FrameNet role=Locale 
+}}{{Role
+|Role.Name=границы
+|Role.Name gloss=borders 
+|Role.Definition=края физической области
+}}{{Role
+|Role.Name=население
+|Role.Name gloss=population 
+|Role.Definition=люди, живущие в месту
+|Role.FrameNet role=Population 
+}}{{Role
+|Role.Name=орган_власти
+|Role.Name gloss=governing_institution 
+}}{{Role
+|Role.Name=экономика
+|Role.Name gloss=economy 
+}}{{Role
+|Role.Name=природные_ресурсы
+|Role.Name gloss=natural_resources 
+}}{{Role
+|Role.Name=суб_место
+|Role.Name gloss=sub_locale
+|Role.Definition=Политические регионы в месту
+}}{{Role
+|Role.Name=состояние_региона
+|Role.Name gloss=state_of_region 
+|Role.Definition=благополучия или экономическое состояние региона
+}}{{Role
+|Role.Name=инфраструктура
+|Role.Name gloss=infrastructure 
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ограниченная область
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Государственное учреждение
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Правительство
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=region.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=область.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=район.n
+}}
+|LinkEnglish=Political region
+|Applicability=Russian
+}}

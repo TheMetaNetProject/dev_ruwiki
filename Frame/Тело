@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=Body
+|Family=Cхемы сущности,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Телесное функционирование
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Живое существо
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Часть целое
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тело.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=орган.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=труп.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=костяк.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=скелет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мясо.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=голова.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=глава.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=башка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мозг.n
+}}
+|LinkEnglish=Body
+|Applicability=Russian
+}}

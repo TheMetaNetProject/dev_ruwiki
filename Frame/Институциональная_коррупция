@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=Institutional corruption
+|Family=Cхемы Управления, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles={{Role
+|Role.Name gloss=Governed_individuals 
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Авторитет
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Учреждение
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Коррупция
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Институциональная.a коррупция.n
+}}
+|LinkEnglish=Institutional corruption
+|Applicability=Russian
+}}

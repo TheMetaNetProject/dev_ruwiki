@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Gambling
+|Family=Cхемы конкурса,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Игра
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=играть.v в.p азартные.a игры.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=игорный.a
+}}
+|LinkEnglish=Gambling
+|Applicability=Russian
+}}

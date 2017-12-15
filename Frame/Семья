@@ -1,0 +1,60 @@
+{{Frame
+|Name gloss=Family
+|FrameNet frame=Kinship
+|Family=Социальные схемы,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Социальная группа
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мать.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отец.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мама.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=матушка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мамаша.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отец.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родитель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родительница.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=брат.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сестра.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родня.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кровный.a родственник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родной.a
+}}
+|LinkEnglish=Family
+|Applicability=Russian
+}}

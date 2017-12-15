@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Birth
+|Status=in development
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рождение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рождать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родить.v
+}}
+|LinkEnglish=Birth
+|Applicability=Russian
+}}

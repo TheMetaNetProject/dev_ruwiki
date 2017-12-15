@@ -1,0 +1,43 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=СТРАНА - ЭТО ТЕЛО
+|Metaphor.Alias.Provenance=Михаил Веллер
+|Metaphor.Alias.Page no=www. weller.ru
+}}
+|Family=социальная, антропоморфная 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=ТЕЛО
+|Target frame=СТРАНА
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Name=ОБЩЕСТВО - ЭТО ЧЕЛОВЕК
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Россия - это огромный организм, и никто не знает,что с ним делать
+|Example.Gloss=Russia is a huge organism, and nobody knows what to do with it.
+|Example.English translation=Russia is a huge organism and nobody knows how to deal with it.
+|Example.Provenance=www. weller.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Позволить некоторым членам Федерации уйти - значит отрезать кусок от тела России.
+|Example.Gloss=To let some subjects of the Federation go means to cut off a piece of the Russian body.
+|Example.English translation=To let some subjects of the Federation go means to cut off some part of the Russian body
+|Example.Provenance=Putin's speech
+}}{{Example
+|Example.Language=Russian
+|Example.Text=США размяло мышцы своей армии, демонстрируя свои вооружения.
+|Example.Gloss=The USA pomelled the muscles of its army, demonstrating the new armaments.
+|Example.English translation=The USA has stretched the muscles of its army, demonstrating their new armaments.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Руки России становятся все сильнее и сильнее. Даже самые сильные партнеры (Евросоюз)не могут их выкрутить.
+|Example.Gloss=The arms of Russia are getting stronger with each day. Even such strongest partners as the EU can’t twist them
+|Example.English translation=Russia’s arms are getting stronger and stronger. Even the strongest partners can’t twist them
+}}
+|Entered by=Inna
+|Status=in development
+|Investigated for=Russian
+}}

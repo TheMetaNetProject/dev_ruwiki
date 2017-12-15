@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=Animal
+|Family=Cхемы сущности,
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лапа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поглощать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=коготь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поглотить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пожирать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=собака.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кошка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сглодать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грызть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=съедать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=изъесть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=щупальца.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пес.n
+}}
+|LinkEnglish=Animal
+|Applicability=Russian
+}}

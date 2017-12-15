@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Social group
+|Family=Социальные схемы
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Группа
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=группа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=членство.n
+}}
+|LinkEnglish=Social group
+|Applicability=Russian
+}}

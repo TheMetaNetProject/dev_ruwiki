@@ -1,0 +1,23 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Демократическое правительство
+}}{{Linked frame
+|Frame name=Демократия
+}}{{Linked frame
+|Frame name=Демократическое учреждение
+}}{{Linked frame
+|Frame name=Гражданское участие
+}}{{Linked frame
+|Frame name=Демократическая идеология
+}}
+|WhitelistTargetLUs={{Whitelist target LUs
+|WhitelistTargetLU=демократизация.n
+}}
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}

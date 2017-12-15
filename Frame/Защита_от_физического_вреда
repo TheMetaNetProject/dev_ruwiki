@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=Protection from physical harm
+|Tags=Program sources
+|Status=auto imported
+|Last reviewed by=Patricia
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Физический вред
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=защищать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=охрана.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=защита.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=защитить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=охранять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=охранить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=беречь.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оберегать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=щит.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=экран.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=защитник.n
+}}
+}}

@@ -1,0 +1,61 @@
+{{Frame
+|Name gloss=Evil creature
+|Type=Frame
+|Status=in development
+|Entered by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Одушевлённый объект
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Безнравственность
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Вред живому существу
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=монстр.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чудовище.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чудище.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=урод.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=страшилище.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чёрт.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гидра.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чудовищный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=изверг.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=змей.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бес.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=злодей.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зверьё.n
+}}
+|LinkEnglish=Evil creature
+|Applicability=Russian
+}}

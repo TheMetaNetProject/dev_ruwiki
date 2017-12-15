@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=Action of_legislative authority
+|Family=Cхемы Управления, Схемы законодательства
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Действие управления
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Целеустремленое действие
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=законодательство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=законодательный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=закон.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=законопроект.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=законодательная.a власть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=повестка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чартер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=правящий.a
+}}
+|LinkEnglish=Legislative action
+|Applicability=Russian
+}}

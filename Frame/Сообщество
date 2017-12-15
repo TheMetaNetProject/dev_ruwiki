@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=Community
+|FrameNet frame=Aggregate
+|Family=Cхемы Управления, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Социальная группа
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сообщество.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=община.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= общество.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=общность.n
+}}
+|LinkEnglish=Community
+|Applicability=Russian
+}}

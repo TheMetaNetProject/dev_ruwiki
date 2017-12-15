@@ -1,0 +1,81 @@
+{{Frame
+|Name gloss=Difficulties in Action
+|Family=Схемы действий
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Patricia, Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Действие
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бремя.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тяжесть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=давить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нагрузка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нагружать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тащить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=облегчение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сломлен.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=изнурять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=истощать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вредить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мучить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=калечить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=шрам.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рубцеваться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=удерживать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=путы.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=трудность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=затруднение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=осложнение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кризис.n
+}}
+|LinkEnglish=Difficulties in action
+}}

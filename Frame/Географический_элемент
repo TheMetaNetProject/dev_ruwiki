@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Geographic feature
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гора.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=холм.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=степь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=река.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=море.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тундра.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тайга.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пирамида.n
+}}
+|LinkEnglish=Geographic feature
+|Applicability=Russian
+}}

@@ -1,0 +1,43 @@
+{{Frame
+|Name gloss=Driving a vehicle
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вилять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ездить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=управлять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тормозить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=повернуть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разворот.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=водитель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=водить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вести.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ехать.v
+}}
+|LinkEnglish=Driving a vehicle
+|Applicability=Russian
+}}

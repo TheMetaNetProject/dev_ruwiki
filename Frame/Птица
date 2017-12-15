@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=Bird
+|Family=Cхемы сущности, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Животное
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Живое существо
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=клюв.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=яйцо.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=крыло.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=люк.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=коготь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перо.n
+}}
+|LinkEnglish=Bird
+|Applicability=Russian
+}}

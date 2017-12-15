@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=Food
+|Family=Схемы еды
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Last reviewed by=Kristina,
+|Roles={{Role
+|Role.Name=еда
+|Role.Name gloss=food
+}}{{Role
+|Role.Name=потребитель_еды
+|Role.Name gloss=food_consumer
+}}{{Role
+|Role.Name=тип
+|Role.Name gloss=type
+}}{{Role
+|Role.Name=количество
+|Role.Name gloss=amount
+}}{{Role
+|Role.Name=свойства
+|Role.Name gloss=properties
+|Role.Definition=например запах, вкус, питательная ценность
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=питание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=хлеб.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пища.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=корм.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кормление.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=питать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кормить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кормиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сладостный.a
+}}
+|LinkEnglish=Food
+|Applicability=Russian
+}}

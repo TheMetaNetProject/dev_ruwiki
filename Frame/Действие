@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=Action
+|FrameNet frame=Intentionally_act
+|Family=Схемы действий
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Процесс
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=действие
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=деяние
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=актер
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=деятельность
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=акция
+}}
+|LinkEnglish=Action
+|Applicability=Russian
+}}

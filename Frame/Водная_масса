@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=Body of_water
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=море.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=река.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=океан.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=озеро.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лужа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вода.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=волна.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=утопление.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=погружаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=погружен.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=плавать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отплывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=течение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поток.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=трясина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=текущий.a
+}}
+|LinkEnglish=Body of water
+|Applicability=Russian
+}}

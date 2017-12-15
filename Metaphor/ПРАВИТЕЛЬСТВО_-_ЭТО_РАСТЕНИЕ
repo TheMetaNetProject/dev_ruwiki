@@ -1,0 +1,40 @@
+{{Metaphor
+|Name gloss=GOVERNMENT - IS A_PLANT
+|Aliases={{Metaphor.Alias}}
+|Family=Social Metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Растение
+|Target frame=Правительство
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=ЛЮДИ  -  ЭТО  РАСТЕНИЯ
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ОБЩЕСТВЕННЫЕ ОРГАНИЗАЦИИ - ЭТО РАСТЕНИЕ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Официальная Россия, включая все органы, институты, участки, отделения, комитеты и министерства, — это продукт разложения советской государственной системы. Единственный процесс, который полным ходом идет в российском государстве (не в обществе, не в стране, а именно в структурах государства), — это разложение. Гниение системы началось до формального конца СССР и продолжается на наших глазах.. Мы каждый день получаем новую порцию продуктов распада: новое преступление людей в погонах, новый приговор купленного суда.
+|Example.English translation=Official Russia, including its authorities, institutions, police stations, departments, committees and ministries, is a product of decomposition of the Soviet national system.The only process, which is well under way in the Russian state (neither in the society,nor in the country, but in governmental structures)  is decomposition. The rot of the system started long before the formal collapse of the USSR and is going before our eyes. We get a serving of breakdown product every day: a new crime of people in uniform, a new sentence of the corrupt court.
+|Example.Provenance=www.vedomosti.ru/opinion/news/1538709/fundament_novoj_respubliki
+}}{{Example
+|Example.Language=Russian
+|Example.Text=В конце концов, такие пирамидальные системы (государства, корпорации, церкви) загнивают и разрушаются,
+|Example.Gloss=In the_end of_ends, such pyramidal systems (governments, corporations, churches)are_becoming_rotten and extinct.
+|Example.English translation=After all, such pyramidal systems (governments, corporations, churches)are becoming rotten and extinct.
+|Example.Provenance=parnasse.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Уже сейчас возникает представление о полицейском строе и о государстве как об органе правопорядка. Но если и эти структуры государства разлагаются под ударами денег?
+|Example.Gloss=Already now arises understanding of police and government as law-enforcement institutions. But if these government structures are decomposing under the blow of money?
+|Example.English translation=Nowadays there arises an understanding of police and government as law-enforcement institutions.But what if these governmetn struvtures are decomposing under the impact of money?
+|Example.Provenance=psiholog.mirtesen.ru/blog/43121056091/Poslednyaya-funktsiya-gosudarstva
+}}
+|Entered by=Kristina, Inna,
+|Last reviewed by=Kristina
+|Status=in development
+|Investigated for=Russian
+}}

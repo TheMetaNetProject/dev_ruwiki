@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Democracy
+|Family=Схемы Демократии
+|Type=Frame
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=демократия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=демократический.a
+}}
+|LinkEnglish=Democracy
+|Applicability=Russian
+}}

@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=taxation
+|Family=Схемы Налогообложение
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Трудности для действий
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=перераспределение богатства
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=налог.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=налоговый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=налоги.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=налогообложение.n
+}}
+|LinkEnglish=Taxation
+}}

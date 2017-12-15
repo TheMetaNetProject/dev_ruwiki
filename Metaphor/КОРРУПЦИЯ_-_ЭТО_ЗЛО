@@ -1,0 +1,38 @@
+{{Metaphor
+|Name gloss=CORRUPTION - IS EVIL
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=КОРРУПЦИЯ - ЭТО ЗЛО 
+|Metaphor.Alias.Provenance=Inna
+}}
+|Comments=Delete - not a metaphor!
+|Family=Social Metaphors, Purity Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=ЗЛО 
+|Target frame=КОРРУПЦИЯ
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Коррупция разъела и уничтожила правоохранительную систему
+|Example.Gloss=Corruption corroded and destroyed law-enforcement system.
+|Example.English translation=Corruption in Russia has corroded and destroyed the law-enforcement system
+|Example.Provenance=www.putin-itogi.ru/putin-i-korruptsiya
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Коррупция метастазами сковала экономическую и социальную жизнь страны
+|Example.Gloss=Corruption  (instr.) metastases fettered economic and social life of nation.
+|Example.English translation=Corruption has fettered economic and social life of nation with its metastases.
+|Example.Provenance=www.putin-itogi.ru/putin-i-korruptsiya
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Коррупцию усугубляет и главный путинский принцип управления: «Друзьям — все, остальным — беспредел»
+|Example.Gloss=Corruption  is aggravated by Putin main principle of management: "To friends - everything, to the rest - lawlessness".
+|Example.English translation=Putin's main management principle " Everyting for friends, lawlessness for the rest" aggravates corruption.
+|Example.Provenance=www.putin-itogi.ru/putin-i-korruptsiya
+}}
+|Entered by=Inna,
+|Status=in development
+|Investigated for=Russian
+}}

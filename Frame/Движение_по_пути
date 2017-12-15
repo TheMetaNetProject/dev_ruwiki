@@ -1,0 +1,63 @@
+{{Frame
+|Name gloss=Motion along path
+|FrameNet frame=Motion, Motion_directional, Motion_scenario
+|Family=Cхемы движения,
+|Tags=Program sources
+|Type=Cog, Composed
+|Status=in development, auto imported
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=двигатель
+|Role.Name gloss=mover
+}}{{Role
+|Role.Name=X-схема  движения
+|Role.Name gloss=Motion X-schema
+}}{{Role
+|Role.Name=Источник
+|Role.Name gloss=source
+}}{{Role
+|Role.Name=путь
+|Role.Name gloss=path
+}}{{Role
+|Role.Name=цель
+|Role.Name gloss=goal
+}}{{Role
+|Role.Name=скорость
+|Role.Name gloss=speed
+}}{{Role
+|Role.Name=направление
+|Role.Name gloss=direction
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Источник путь цель
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тянуть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отбрасывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выбраться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выйти.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вылезти.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вытащить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=приближаться.v
+}}
+|LinkEnglish=Motion along a path
+}}

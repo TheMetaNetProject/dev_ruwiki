@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=Rights
+|Family=Cхемы Управления
+|Entered by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Свобода
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Демократия
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=право.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=конституционное.a
+}}
+|LinkEnglish=Rights
+|Applicability=Russian
+}}

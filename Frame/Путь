@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=Pathway
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=откривать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=улица.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=дорога.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=проспект.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=путь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=шоссе.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=след.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=маршрут.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выпутываться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=открывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=открыть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отпереть.v
+}}
+|LinkEnglish=Pathway
+}}

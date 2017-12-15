@@ -1,0 +1,50 @@
+{{Metaphor
+|Name gloss=SUBJUGATION - IS DOWN
+|Name transcription=PODCHINENIYE - ETO VNIZU
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=BEING SUBJECT TO CONTROL IS DOWN
+|Metaphor.Alias.Provenance=Metaphors We Live By
+|Metaphor.Alias.Page no=15
+}}
+|Family=Russian primary metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Вертикальность
+|Target frame=Контроль
+|Mappings={{Mapping
+|Target=подчиненное_существо (subjugated_entity)
+|Source=вертикально_ниже_существо (vertically_lower_entity)
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=КОНТРОЛЬ - ЭТО ВЕРТИКАЛЬНОСТЬ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Вопросы демократии и свободы слова находятся под моим контролем.
+|Example.Gloss=Issues democracy and freedom word are under my control.
+|Example.Transcription=Voprosy demokratii i svobody slova nakhodyatsya pod moim kontrolem.
+|Example.English translation=Issues of democracy and freedom of speech are under my control.
+|Example.Provenance=newsper.net/ru/news?id...date... - Ukraine
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Я тоже могу сказать что вы находитесь под моим контролем.
+|Example.Gloss=I also can say that you are under my control.
+|Example.Transcription=Ya tozhe mogu skazat chto vy nakhodites pod moim kontrolem.
+|Example.English translation=I can also say that you are under my control.
+|Example.Provenance=vk.com/topic-23728250_24212452?offset
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Президент России Владимир Путин требует держать под самым жестким контролем расходование финансовых средств.
+|Example.Gloss=President Russia Vladimir Putin needs keeping under most strict control expenditure financial funds.
+|Example.Transcription=Prezident Rossii Vladimir Putin trebuyet derzhat pod samym zhestkim kontrolem raskhodovaniye finansovykh sredstv.
+|Example.English translation=Russian President Vladimir Putin needs to keep expenditure of funds under the most strict control.
+|Example.Provenance=ria.ru/moscow/20120814/723494253.html
+}}
+|Entered by=Kristina,
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=SUBJUGATION IS DOWN
+|Investigated for=Russian
+}}

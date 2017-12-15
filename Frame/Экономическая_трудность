@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=Economic difficulty
+|Family=Схемы Бедность, Экономические схемы,
+|Tags=Program sources
+|Type=Frame, Composed
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Трудности в действии
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Трудность
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Экономика
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Economic difficulty
+}}

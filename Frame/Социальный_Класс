@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Social Class frames
+|Family=Cхемы Социальный Класс
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=класс.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=статус.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=престиж.n
+}}
+|LinkEnglish=Social Class frames
+|Applicability=Russian
+}}

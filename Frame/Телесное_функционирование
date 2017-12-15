@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Bodily functioning
+|Family=Cхемы сущности,
+|Type=Cog
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=тело
+|Role.Name gloss=body
+}}{{Role
+|Role.Name=часть_тела
+|Role.Name gloss=bodypart
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=телесный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=физический.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=соматический.a
+}}
+|LinkEnglish=Bodily functioning
+|Applicability=Russian
+}}

@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=Corruption
+|Family=Cхемы Управления, 
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Государственное учреждение
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Преступление
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Социальные проблемы
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=коррупция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=развращение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=продажный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=испорченный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=развращенный.a
+}}
+|LinkEnglish=Corruption
+|Applicability=Russian
+}}

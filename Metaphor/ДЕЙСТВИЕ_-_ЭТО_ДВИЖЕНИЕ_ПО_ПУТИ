@@ -1,0 +1,77 @@
+{{Metaphor
+|Name gloss=ACTION - IS MOTION ALONG PATH
+|Name transcription=DEYSTVIE - ETO DVIZHENIE PO PUTI
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACTION IS MOTION ALONG A PATH
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=187
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ACTION IS MOVEMENT
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=187
+}}
+|Family=Метафора структуры события,Метафора структуры события - локация, Russian primary metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=движение
+|Source frame=Движение_по_пути (Motion_along_a_path)
+|Target frame=действие
+|Mappings={{Mapping
+|Target=aктер
+|Source=двигатель
+}}{{Mapping
+|Target=x-схема действий (action_x-schema)
+|Source=x-схема движения (motion_x-schema)
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО ДВИЖЕНИЕ
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=помощь действию
+|Entailment.Source inference=помощь движению  по пути
+|Entailment.Entailed metaphors=ПОМОЩЬ ДЕЙСТВИЮ  - ЭТО ПОМОЩЬ ДВИЖЕНИЮ  ПО ПУТИ
+}}{{Entailment
+|Entailment.Target entailment=cпособ действий
+|Entailment.Source inference=cпособ движения по пути
+|Entailment.Entailed metaphors=CПОСОБ ДЕЙСТВИЙ - ЭТО CПОСОБ ДВИЖЕНИЯ ПО ПУТИ
+}}{{Entailment
+|Entailment.Target entailment=осторожное действие
+|Entailment.Source inference=oсторожное движениe по пути
+|Entailment.Entailed metaphors=ОСТОРОЖНОЕ ДЕЙСТВИЕ - ЭТО OСТОРОЖНОЕ ДВИЖЕНИE ПО ПУТИ
+}}{{Entailment
+|Entailment.Target entailment=oпасное/ рискованное действие (dangerous/risky action)
+|Entailment.Source inference=опасное/ рискованное движениe по пути (dangerous/risky motion along a path)
+|Entailment.Entailed metaphors=OПАСНОЕ/ РИСКОВАННОЕ ДЕЙСТВИЕ - ЭТО ОПАСНОЕ/ РИСКОВАННОЕ ДВИЖЕНИE ПО ПУТИ
+}}{{Entailment}}
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Ветер с юга, с южного российского берега, ― это ветер в паруса экономического сотрудничества сопредельных стран.
+|Example.Gloss=Wind from south, from southern Rusian coast - is wind in sails economic cooperation neighboring countries.
+|Example.Transcription=Veter s yuga, s yuzhnogo rossiyskogo berega, ― eto veter v parusa ekonomicheskogo sotrudnichestva sopredelnykh stran.
+|Example.English translation=Wind from the south, from the southern Russian coast - is the wind in the sails of economic cooperation of neighboring countries.
+|Example.Provenance=http://www.ruscorpora.ru/en/search-main.html
+|Example.Comments=ПОМОЩЬ ДЕЙСТВИЮ - ЭТО ПОМОЩЬ ДВИЖЕНИЮ  ПО ПУТИ
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Мужчинам сложно уследить за нашими мыслями, которые мы спешим облечь в слова, перескакивая с одной темы на другую.
+|Example.Gloss=Man complicated follow after our thoughts, that we hurry clothe in letters, jumping from one topic to another
+|Example.Transcription=Muzhchinam slozhno usledit za nashimi myslyami, kotorye my speshim oblech v slova, pereskakivaya s odnoy temy na druguyu.
+|Example.English translation=It is very hard for men to keep track of our thoughts, that we are anxious to put into words, jumping from one topic to another.
+|Example.Provenance=http://za-30.com/muzhchina-zhenschina/razgovor-s-muzhchinoy-2
+|Example.Comments=CПОСОБ ДЕЙСТВИЙ - ЭТО CПОСОБ ДВИЖЕНИЯ ПО ПУТИ
+}}{{Example
+|Example.Language=Russian
+|Example.Text=И я на цыпочках ходил по ободку карьера, башку держал отвесом позвонков ― в кувшине.
+|Example.Gloss=And I on chickens walked on verge career, head holding vertically spin - in pitcher.
+|Example.Transcription=I ya na tsypochkakh khodil po obodku karyera, bashku derzhal otvesom pozvonkov ― v kuvshine.
+|Example.English translation=And I walked on eggshells being on the verge of a career, holding my head high - in the pitcher.
+|Example.Provenance=http://search.ruscorpora.ru
+|Example.Comments=ОСТОРОЖНОЕ ДЕЙСТВИЕ - ЭТО OСТОРОЖНОЕ ДВИЖЕНИE ПО ПУТИ
+}}
+|Entered by=Kristina,
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=ACTION IS MOTION ALONG A PATH
+|Investigated for=Russian
+}}

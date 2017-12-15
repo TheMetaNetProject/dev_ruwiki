@@ -1,0 +1,43 @@
+{{Metaphor
+|Name gloss=AID ACTION - IS AID MOTION ALONG PATH
+|Name transcription=POMOSHCH DEYSTVIYU - ETO POMOSHCH DVIZHENIYU PO PUTI
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ПОМОЩЬ ДЕЙСТВИЮ - ЭТО ПОМОЩЬ ДВИЖЕНИЮ ПО ПУТИ
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=188
+}}
+|Family=Метафора структуры события,Метафора структуры события - локация, Russian primary metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Experiential basis=движение
+|Source frame=помощь движению по пути
+|Target frame=помощь действию
+|Mappings={{Mapping
+|Target=aктер
+|Source=двигатель
+}}{{Mapping
+|Target=x-схема действий (action_x-schema)
+|Source=x-схема движения (motion_x-schema)
+}}{{Mapping
+|Target=помощь действию
+|Source=помощь движению по пути
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО ДВИЖЕНИЕ ПО ПУТИ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Ветер с юга, с южного российского берега, ― это ветер в паруса экономического сотрудничества сопредельных стран.
+|Example.Gloss=Wind from south, from southern Rusian coast - is wind in sails economic cooperation neighboring countries.
+|Example.Transcription=Veter s yuga, s yuzhnogo rossiyskogo berega, ― eto veter v parusa ekonomicheskogo sotrudnichestva sopredelnykh stran.
+|Example.English translation=Wind from the south, from the southern Russian coast - is the wind in the sails of economic cooperation of neighboring countries.
+|Example.Provenance=http://www.ruscorpora.ru/en/search-main.html
+}}
+|Entered by=Kristina,
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=ARGUMENT IS WAR
+|Investigated for=Russian
+}}

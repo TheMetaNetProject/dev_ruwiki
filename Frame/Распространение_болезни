@@ -1,0 +1,57 @@
+{{Frame
+|Name gloss=Spread of_disease
+|Description=Spread of disease within a population
+|Family=Вред, Вред живому существу, Cхемы болезни
+|Roles={{Role
+|Role.Name=болезнь
+|Role.Name gloss=disease
+}}{{Role
+|Role.Name=инфицированныу_лица
+|Role.Name gloss=infected_individuals
+}}{{Role
+|Role.Name=еще_неинфицированные лица
+|Role.Name gloss=yet_uninfected_individuals
+}}{{Role
+|Role.Name=зона_распространения
+|Role.Name gloss=area_of_spread
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Болезнь
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зараза.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заразный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пандемия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=эндемический.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=эпидемия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чума.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заразить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инфекция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инфекционный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мор.n
+}}
+|LinkEnglish=Disease spread
+|Applicability=Russian
+}}

@@ -1,0 +1,38 @@
+{{Metaphor
+|Name gloss=POLITICS IS A SPORTS COMPETITION
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ПОЛИТИКА - ЭТО СПОРТИВНОЕ СОРЕВНОВАНИЕ
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Social Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=СПОРТИВНОЕ СОРЕВНОВАНИЕ
+|Target frame=ПОЛИТИКА 
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Мы становимся свидетелями великого шахматного матча Путин - Вашингтон, где российский спортсмен играет в игру, которую нельзя найти ни в одной теории игры в шахматы.
+|Example.Gloss=We become witnesses of great chess match Putin – Washington, where Russian player plays in game which one can't find in theory of chess play.
+|Example.English translation=We witness the great chess match Putin – Washington, where the Russian player is playing the game which cannot be found in the chess play theory. 
+
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Вот что я хочу запулить нашим американским коллегам в качестве хоккейной шайбы.
+|Example.Gloss=This is what I want to bullet our American colleagues as a hockey puck
+|Example.English translation=This is what I want to send our American colleagues as a hockey puck(Putin)
+
+|Example.Provenance=Putin's speech
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Россия важный игрок в обеспечении стабильности в Азии
+|Example.Gloss=Russia is important player in providing stability in Asia.
+|Example.English translation=Russia is an important player, who provides stability in Asia.
+|Example.Provenance=S. Lavrov - interview
+}}
+|Entered by=Inna, 
+|Status=in development
+|Investigated for=Russian
+}}

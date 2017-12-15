@@ -1,0 +1,43 @@
+{{Frame
+|Name gloss=X-schema
+|FrameNet frame=Process
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Kristina
+|Roles={{Role
+|Role.Name=initial
+|Role.Type=stage
+|Role.Definition=initial state
+}}{{Role
+|Role.Name=start
+|Role.Type=stage
+|Role.Definition=transition from initial to ongoing
+}}{{Role
+|Role.Name=ongoing
+|Role.Type=stage
+}}{{Role
+|Role.Name=finish
+|Role.Type=stage
+|Role.Definition=transition from ongoing to final state
+}}{{Role
+|Role.Name=final
+|Role.Type=stage
+}}{{Role
+|Role.Name=kind
+|Role.Definition=specific type of x-schema
+}}{{Role
+|Role.Name=finish_conditions
+|Role.Definition=condtions for finish transition
+}}{{Role
+|Role.Name=start_conditions
+|Role.Definition=conditions for start transition
+}}
+|Related frames=
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=x-schema stages are ordered.  Intitial > start > ongoing > finish > final
+|Inference.Type=x-schema stage
+}}
+|Relevant LUs=
+|LinkEnglish=X-schema
+}}

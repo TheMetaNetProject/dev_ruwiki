@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Regulation
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=регулирование.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ведомство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=регулятивный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=директива.a
+}}
+|Applicability=Russian
+}}

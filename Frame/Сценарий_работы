@@ -1,0 +1,93 @@
+{{Frame
+|Name gloss=Work scenario
+|Comments=This is a very general frame meant to encompass a variety of different work scenarios, some of which may invovlve additional workers (with various possible relations between these workers). A worker may have a seperate employer, or may be self-employed 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles={{Role
+|Role.Name=работник
+|Role.Name gloss=worker 
+}}{{Role
+|Role.Name=работа_деятельность
+|Role.Name gloss=work_activity
+|Role.Type=X-схема
+}}{{Role
+|Role.Name= рабочее_место
+|Role.Name gloss=workplace 
+}}{{Role
+|Role.Name=цель
+|Role.Name gloss=objective 
+}}{{Role
+|Role.Name=затрагиваемая_сущность
+|Role.Name gloss=affected_entity 
+}}{{Role
+|Role.Name=работодатель
+|Role.Name gloss=employer 
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Целеустремленное действие
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Занятие
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Доход
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доход.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=прибыль.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заработок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выгода.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зарплата.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разработка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= деятельность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заниматься.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=трудиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=произведение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зарабатывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наработать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=профессия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=призвание.n
+}}
+|LinkEnglish=Work scenario 
+|Applicability=Russian
+}}

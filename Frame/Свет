@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=Light
+|FrameNet frame=Location_of_light, Level_of_light
+|Family=Схемы восприятия, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Темнота
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лоск.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сияние.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=блеск.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=великолепие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=светимость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=свет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=светило.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=яркость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=светить.v
+}}
+|LinkEnglish=Lightness
+|Applicability=Russian
+}}

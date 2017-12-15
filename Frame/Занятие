@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=Employment
+|FrameNet frame=Employment_scenario, Being_employed
+|Family=Схемы Богатство и Социальный Класс, Экономические схемы, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Сценарий работы
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Контроль
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=занятие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=служба.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=профессия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работодатель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наниматель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=предприниматель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=съемщик.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=служащий.n
+}}
+|LinkEnglish=Employment 
+|Applicability=Russian
+}}

@@ -1,0 +1,8 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-adj_S-noun
+|CxnMPDescription=Adj-T Noun-S modification construction: backup in case parse fails
+|Comments=политическая=политический=Afpfsnf=4 пропасть=пропасть=Ncfsnn=5
+make sure number/gender match
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=Af&#91;pcs&#93;(?P<gen>&#91;mfn&#93;)(?P<num>&#91;sp&#93;)&#91;^=&#93;+=(?P<tidx>\d+) &#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=Nc(?P=gen)(?P=num)&#91;^=&#93;+=(?P<sidx>\d+)\b
+}}

@@ -1,0 +1,79 @@
+{{Frame
+|Name gloss=Caused change of_state
+|FrameNet frame=Cause_change
+|Family=Схемы связанные со состоянием, Схемы связанные со свойством, Схемы причинности,
+|Type=Cog
+|Status=in development
+|Entered by=Ellen,
+|Last reviewed by=Kristina,
+|Roles={{Role
+|Role.Name=agent
+|Role.FrameNet role=Agent
+}}{{Role
+|Role.Name=affected
+|Role.FrameNet role=Entity
+}}{{Role
+|Role.Name=cause
+|Role.FrameNet role=Cause
+}}{{Role
+|Role.Name=state_change
+|Role.Type=Change of state frame
+|Role.FrameNet role=Attribute
+}}{{Role
+|Role.Name=initial_state
+|Role.FrameNet role=Initial_category, Initial_value
+}}{{Role
+|Role.Name=transition
+}}{{Role
+|Role.Name=final_state
+|Role.FrameNet role=Final_category, Final_value
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Изменение состояния
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Причинность
+}}
+|Bindings={{Binding
+|Binding.Local role=affected
+|Binding.Bound role=Change of state.entity
+}}{{Binding
+|Binding.Local role=affected
+|Binding.Bound role=Causation.affected
+}}{{Binding
+|Binding.Local role=agent
+|Binding.Bound role=Causation.agent
+}}{{Binding
+|Binding.Local role=state_change
+|Binding.Bound role=Causation.effect
+}}{{Binding
+|Binding.Local role=state_change
+|Binding.Bound role=Change of state
+}}{{Binding
+|Binding.Local role=initial_state
+|Binding.Bound role=Change of state.initial_state
+}}{{Binding
+|Binding.Local role=transition
+|Binding.Bound role=Change of state.transition
+}}{{Binding
+|Binding.Local role=final_state
+|Binding.Bound role=Change of state.final_state
+}}
+|Inferences={{Inference
+|Inference.Description=state change would not have occured without a cause
+}}{{Inference
+|Inference.Description=The occurrence of the cause precedes or accompanies the change of state
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подовить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вталкиваться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гнать.v
+}}
+|LinkEnglish=Caused change of state
+}}

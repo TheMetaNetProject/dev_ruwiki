@@ -1,0 +1,66 @@
+{{Frame
+|Name gloss=Plants
+|FrameNet frame=Planting
+|Family=Cхемы сущности
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=плод.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зерно.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=процветание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=искоренять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=растение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=корень.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=коренной.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сеять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=посеять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=засеять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=засевать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высевать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=насаждать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обрабатывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сучок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разрастание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=процветать.v
+}}
+|LinkEnglish=Plants
+|Applicability=Russian
+}}

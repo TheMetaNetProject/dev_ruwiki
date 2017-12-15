@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=Caused change of_location
+|Family=Схемы местонахождения, Схемы причинности, 
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Metabot, 
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Движение по пути
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Причинность
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Caused change of location
+}}

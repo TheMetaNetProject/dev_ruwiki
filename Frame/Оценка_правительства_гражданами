@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=Evaluation of_government by_citizens
+|Comments=Эта Схема оценки применяется к правительству - управляемые граждане оценивают свое правительство
+|Family=Cхемы Управления, Схемы оценки
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=оценщик
+|Role.Name gloss=Evaluator
+}}{{Role
+|Role.Name=оценка
+|Role.Name gloss=Evaluation
+}}{{Role
+|Role.Name=стандарт
+|Role.Name gloss=Standard
+}}{{Role
+|Role.Name=оцениваемый
+|Role.Name gloss=Evaluaee
+}}{{Role
+|Role.Name=поведение
+|Role.Name gloss=Behavior
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Оценка
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Правительство
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Граждане
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оценка.n правительства.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оценщик.n
+}}
+|LinkEnglish=Citizen evaluation of government
+|Applicability=Russian
+}}

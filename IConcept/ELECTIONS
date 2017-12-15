@@ -1,0 +1,14 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Выборы
+}}{{Linked frame
+|Frame name=Голосование
+}}{{Linked frame
+|Frame name=Права голоса
+}}{{Linked frame
+|Frame name=Политическое соревнование
+}}
+}}

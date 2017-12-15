@@ -1,0 +1,56 @@
+{{Metaphor
+|Name gloss=ROMANTIC RELATIONSHIP  – IS JOURNEY
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LOVE IS A JOURNEY
+|Metaphor.Alias.Provenance=MWLB
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ROMANTIC RELATIONSHIP IS A JOURNEY
+|Metaphor.Alias.Provenance=Gibbs & Matlock (2008)
+}}
+|Family=ЛЮБОВЬ ЭТО ПУТЕШЕСТВИЕ Каскад, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Путешествие
+|Target frame=Романтичное отношение
+|Mappings={{Mapping
+|Target=relationship_participant 
+|Source=journeyer 
+}}{{Mapping
+|Target=relationship_co_participant 
+|Source=co_journeyer 
+}}{{Mapping
+|Target=relationship 
+|Source=vehicle 
+}}{{Mapping
+|Target=course_of_relationship 
+|Source=path_of_journey 
+}}{{Mapping
+|Target=difficulties_in_a_relationship 
+|Source=obstacles/impediments_in_journey 
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=ЖИЗНЬ – ЭТО ПУТЕШЕСТВИЕ
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО ДВИЖЕНИЕ ПО ПУТИ
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Two people in a relationship have compatible life purposes 
+|Entailment.Source inference= 	Two people traveling together have a common destination a journey
+}}
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Наша любовь – путешествие
+В координатах возможностей,
+|Example.Gloss=Our love - journey
+In coordinates possibilities
+|Example.English translation=Our love is a journey
+In the coordinates of possibilities
+|Example.Provenance=http://www.stihi.ru/2009/09/11/7234
+}}
+|Entered by=Kristina, 
+|Status=in development
+|LinkEnglish=LOVE IS A JOURNEY
+|Investigated for=Russian
+}}

@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=Understanding
+|FrameNet frame=Awareness
+|Family=Схемы познания, 
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=понимать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=понять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разуметь.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=понимание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=понимающий.a
+}}
+|LinkEnglish=Understanding
+|Applicability=Russian
+}}

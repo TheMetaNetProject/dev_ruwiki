@@ -1,0 +1,71 @@
+{{Frame
+|Name gloss=Building
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=надстройка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=построить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=строить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=строительство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=дом.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=строение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поддержка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сносить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=очаг.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=порог.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оплот.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=создаваться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=создавать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=основываться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=соорудить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=здание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=каркас.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=опора.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=цитадель.n
+}}
+|LinkEnglish=Building
+|Applicability=Russian
+}}

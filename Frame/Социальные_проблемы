@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=Social problems
+|Family=Схемы Бедность
+|Tags=Program sources
+|Type=Frame, Composed
+|Status=in development, auto imported
+|Entered by=Metabot, 
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Проблемы в действии
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кризис.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бездомность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=коррупция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=алкоголизм.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наркомания.n
+}}
+|LinkEnglish=Social problems 
+}}

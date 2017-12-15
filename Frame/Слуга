@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=Servant
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Порабощение
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=раб.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=слуга.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=крепостной.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подчинённый.a
+}}
+|Applicability=Russian
+}}

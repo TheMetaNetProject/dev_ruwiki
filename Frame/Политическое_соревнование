@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Political competition
+|Family=Cхемы конкурса, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Соревнование
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Политическое.a соревнование.n 
+}}
+|LinkEnglish=Political competition
+|Applicability=Russian
+}}

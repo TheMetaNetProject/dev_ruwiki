@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=Experiencing a_negative state
+|Family=Схемы связанные со состоянием
+|Status=in development
+|Entered by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Испытывающий состояние
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кошмар.n
+}}
+|LinkEnglish=Experiencing a negative state
+|Applicability=Russian
+}}

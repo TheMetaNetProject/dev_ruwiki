@@ -1,0 +1,48 @@
+{{Frame
+|Name gloss=Game
+|FrameNet frame=Competition
+|Family=Cхемы конкурса,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Соревнование
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Азартная_игра
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=игра.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=партия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=дичь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=игровой.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=игрок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=счет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вести.v счет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выигрывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=проигрывать.v
+}}
+|LinkEnglish=Game
+|Applicability=Russian
+}}

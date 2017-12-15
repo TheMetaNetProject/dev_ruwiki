@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=Action of_executive government
+|Family=Cхемы Управления,
+|Type=Frame
+|Cultural information=Действия, сделанные исполнительной власти - то есть, президентом страны или губернатором государства и т.д.
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Действие управления
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=акт.n исполнительной.a власти.n
+}}
+|LinkEnglish=Government executive action
+|Applicability=Russian
+}}

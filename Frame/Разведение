@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=Breeding
+|Entered by=Patricia
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Паразит
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Животное
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=плодить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=расплодить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=плодиться.v
+}}
+|Applicability=Russian
+}}

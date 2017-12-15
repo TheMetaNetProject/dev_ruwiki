@@ -1,0 +1,35 @@
+{{Metaphor
+|Name gloss=SOCIAL PROBLEMS - ARE PHYSICAL AFFLICTIONS
+|Aliases=
+|Tags=Program sources
+|Family=Метафоры Бедность
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Физические страдания
+|Target frame=Социальные проблемы
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ПРОБЛЕМЫ В ДЕЙСТВИИ - ЭТО ФИЗИЧЕСКИЕ СТРАДАНИЯ
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ОБЩЕСТВО - ЭТО ОСОБА
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=СОЦИАЛЬНОЕ ФУНКЦИОНИРОВАНИЕ – ЭТО ФИЗИЧЕСКОЕ ЗДОРОВЬЕ
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=analyzing the cause, scope, etc of the social problem 
+|Entailment.Source inference=diagnosing the physical affliction 
+|Entailment.Entailed metaphors=АНАЛИЗ СОЦИАЛЬНЫХ ПРОБЛЕМ - ЭТО ДИАГНОСТИКА СТРАДАНИЯ
+}}{{Entailment
+|Entailment.Target entailment=addressing a social problem should improve society's function 
+|Entailment.Source inference= 	treating an illness should improve physical health 
+|Entailment.Entailed metaphors=РЕШЕНИЕ СОЦИАЛЬНЫХ ПРОБЛЕМ - ЭТО ДИАГНОСТИКА СТРАДАНИЯ
+}}
+|Examples=
+|Entered by=Metabot, 
+|Last reviewed by=Kristina
+|Status=in development, auto imported
+|LinkEnglish=SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS
+}}

@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=Drafting legislation
+|Type=Frame
+|Status=in development
+|Entered by=Kristina
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=законодательный акт
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=действие законодательства
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Legislation drafting
+|Applicability=Russian
+}}

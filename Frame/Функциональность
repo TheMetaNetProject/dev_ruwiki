@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Functionality
+|Family=Схемы шкалы, 
+|Type=Frame
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Нужда
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Шкала
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=функциональный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работающий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=функциональность.n
+}}
+|LinkEnglish=Functionality
+|Applicability=Russian
+}}

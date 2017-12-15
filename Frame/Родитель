@@ -1,0 +1,72 @@
+{{Frame
+|Name gloss=Parent
+|Family=Социальные схемы, Исключенные схемы
+|Type=Frame
+|Status=in development
+|Entered by=Patricia,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ответственность
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Семья
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Авторитет
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родитель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мать.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отец.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мама.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=папа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мамочка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=папочка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ребёнок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кормить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=защищать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заботиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=укаживать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=любить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=снабдить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=воспитывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обеспечить.v
+}}
+|LinkEnglish=Parent
+|Applicability=Russian
+}}

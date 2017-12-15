@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=ACTION - IS SELF-PROPELLED MOTION ALONG A_PATH
+|Name transcription=DEYSTVIE - ETO SAMOKHODNOE DVIZHENIE PO PUTI
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACTION IS SELF-PROPELLED MOTION ALONG A PATH
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=187
+}}
+|Family=Метафора структуры события,Метафора структуры события - локация, Russian primary metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=самоходнoе движение
+|Target frame=действие
+|Mappings={{Mapping
+|Target=aктер
+|Source=само-двигатель (self-mover)
+}}{{Mapping
+|Target=x-схема действий (action_x-schema)
+|Source=x-схема самодвижения (self-motion_x-schema)
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО ДВИЖЕНИЕ ПО ПУТИ
+|Related metaphor.Description=more specific source domain
+}}
+|Entailments=
+|Examples=
+|Entered by=Kristina
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=ACTION IS SELF-PROPELLED MOTION ALONG A PATH
+|Investigated for=Russian
+}}

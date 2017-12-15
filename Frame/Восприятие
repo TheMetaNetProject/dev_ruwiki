@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=Perception
+|FrameNet frame=Perception
+|Family=Схемы восприятия, 
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Живое существо
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=восприятие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ощущение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перцепция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=воспринимать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ощущать.v
+}}
+|LinkEnglish=Perception
+|Applicability=Russian
+}}

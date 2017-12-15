@@ -1,0 +1,74 @@
+{{Frame
+|Name gloss=Motion
+|Family=Cхемы движения,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Процесс
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=круг.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поток.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=движение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=круговорот.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=впасть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выйти.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подойти.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подниматься.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=приближаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=достигать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доходить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=добираться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доступ.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мобильный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=приводиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=движитель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=недостижимый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=прокатывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пройти.v
+}}
+|LinkEnglish=Motion
+|Applicability=Russian
+}}

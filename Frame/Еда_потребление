@@ -1,0 +1,65 @@
+{{Frame
+|Name gloss=Food cosuming
+|Family=Схемы еды,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=едящий
+|Role.Name gloss=eater
+}}{{Role
+|Role.Name=съеденный_объект
+|Role.Name gloss=eaten_object
+}}{{Role
+|Role.Name=х-схема_еды
+|Role.Name gloss=eating_x-schema
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=есть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кушать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=съедать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поедать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=закусить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разъедать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пожирать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=глотать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=проглатывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поглощать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=покусывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=откусывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обгрызать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=аппетит.n
+}}
+|LinkEnglish=Eating
+|Applicability=Russian
+}}

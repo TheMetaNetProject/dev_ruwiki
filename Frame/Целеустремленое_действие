@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=Purposeful action
+|Family=Схемы структуры события, 
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=действие 
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=желание
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Purposeful action
+|Applicability=Russian
+}}

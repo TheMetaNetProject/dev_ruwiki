@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=Monetary evaluation
+|Comments=evaluating the worth of a resource
+|Family=Экономические схемы, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles={{Role
+|Role.Name gloss=resource
+|Role.Definition=the thing being assessed 
+}}{{Role
+|Role.Name gloss=value
+|Role.Definition=the monetary value of the thing being assessed 
+}}{{Role
+|Role.Name gloss=standard
+|Role.Definition=the standard by which the value is determined 
+}}{{Role
+|Role.Name gloss=evaluator
+|Role.Definition=the entity imposing the value 
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Оценка
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Финансовый ресурс
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Monetary evaluation
+|Applicability=Russian
+}}

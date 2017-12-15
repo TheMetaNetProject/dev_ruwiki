@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Greed
+|Family=Схемы эмоций
+|Type=Frame
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=жадность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=скупость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=жадный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=алчность.n
+}}
+|Applicability=Russian
+}}

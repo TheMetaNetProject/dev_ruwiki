@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=NATION - IS PERSON
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NATION IS A PERSON
+}}
+|Family=Метафоры управления
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=особа
+|Target frame=нация
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=	
+Россия боится, что ей навредят антииранские санкции.
+|Example.Gloss=Russia fears, that her harm anti-Iranian sanctions.
+|Example.English translation=Russia is afraid that anti-Iranian sanctions might harm her.
+|Example.Provenance=http://www.mignews.com/news/politic/world/130812_205018_27531.html
+}}{{Example
+|Example.Language=Russian
+|Example.Text=За что Украина не любит Россию?
+|Example.Gloss=For what Ukraine doesn't love Russia?
+|Example.English translation=Why Ukraine does not like Russia?
+|Example.Provenance=www.baby.ru/blogs/.../33559050-5257423/ 
+}}
+|Entered by=Kristina
+|Status=in development
+|Investigated for=Russian
+}}

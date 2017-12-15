@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=Slave_master
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рабовладелец.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ведущий.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ведомый.n
+}}
+|Applicability=Russian
+}}

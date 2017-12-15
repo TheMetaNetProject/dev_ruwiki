@@ -1,0 +1,54 @@
+{{Frame
+|Name gloss=Destroying
+|Family=Вред, 
+|Type=Frame
+|Status=in development
+|Entered by=Metabot, 
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Физический вред
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уничтожить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уничтожать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=хоронить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разрухнуть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разбивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разбить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=громить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=опустошать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разрушение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= деструкция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уничтожение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разорение.n
+}}
+|LinkEnglish=Destroying
+|Applicability=Russian
+}}

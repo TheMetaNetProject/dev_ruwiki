@@ -1,0 +1,41 @@
+{{Frame
+|Name gloss=Immorality
+|Family=Cхемы нравственности,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Нравственность
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=безнравственный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=аморальный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=безнравственность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=аморальность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=безыдейный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грех.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=неприличный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=коррумпированный.a
+}}
+|LinkEnglish=Immorality
+|Applicability=Russian
+}}

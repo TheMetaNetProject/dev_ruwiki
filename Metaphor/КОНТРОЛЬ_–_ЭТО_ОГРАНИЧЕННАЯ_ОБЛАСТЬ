@@ -1,0 +1,51 @@
+{{Metaphor
+|Name gloss=CONTROL - IS BOUNDED REGION
+|Name transcription=KONTROL – ETO OGRANICHENNAYA OBLAST
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL IS A BOUNDED REGION
+}}
+|Family=Метафоры управления, Russian primary metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Ограниченная область
+|Target frame=Контроль
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=СОСТОЯНИЯ - ЭТО ЛОКАЦИИ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=ХXI век – век беспредельных возможностей, где границы контроля разума открывают свои горизонты.
+|Example.Gloss=XXI century - century limitless possibilities, where boundaries control mind opening their horizons.
+|Example.Transcription=XXI vek – vek bespredelnykh vozmozhnostey, gde granitsy kontrolya razuma otkryvayut svoi gorizonty.
+|Example.English translation=Twenty-first century - the century of the limitless possibilities, where the boundaries of mind control are opening their horizons.
+|Example.Provenance=news.onru.ru/.../Razdvigaja-granicy-kontrol.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Жизнь — за пределами вашего контроля.
+|Example.Gloss=Life - outside region your control.
+|Example.Transcription=Zhizn — za predelami vashego kontrolya.
+|Example.English translation=Life - outside of your control.
+|Example.Provenance=magic-sucess.com/?p=635
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Сегодня хочу порекомендовать вам последний фильм Дж. Джармуша «Предел контроля».
+|Example.Gloss=Today, want recommend you latest film J. Jarmusch "Region Control."
+|Example.Transcription=Segodnya khochu porekomendovat vam posledny film Dzh. Dzharmusha «Predel kontrolya».
+|Example.English translation=Today, I want to recommend you the latest J. Jarmush film "The Limits of Control."
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Особое неудовольствие Путина вызвали «системные сбои» находящиеся явно за пределами контроля правительства.
+|Example.Gloss=Special displeasure Putin caused "systemic failures" being clearly outside region control government.
+|Example.Transcription=Osoboye neudovolstviye Putina vyzvali «sistemnye sboi» nakhodyashchiesya yavno za predelami kontrolya pravitelstva.
+|Example.English translation=Putin was especially displeased with "systemic failures", which are clearly outside the control of the government.
+|Example.Provenance=newtimes.ru/articles/detail/57428/
+}}
+|Entered by=Kristina,
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=CONTROL IS BOUNDED REGION
+|Investigated for=Russian
+}}

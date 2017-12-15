@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Causation
+|Family=Схемы причинности
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Сложный процесс
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=причинность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=причинение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вызывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=причинять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=причина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=эффект.n
+}}
+|LinkEnglish=Causation
+|Applicability=Russian
+}}

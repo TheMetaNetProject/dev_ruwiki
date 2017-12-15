@@ -1,0 +1,8 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-adj_T-noun
+|CxnMPDescription=Adj-S Noun-T modification construction: backup in case parse fails
+|Comments=Тягостный=тягостный=Afpmsnf=0 регламент=регламент=Ncmsnn=1
+make sure number/gender match
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=Af&#91;pcs&#93;(?P<gen>&#91;mfn&#93;)(?P<num>&#91;sp&#93;)&#91;^=&#93;+=(?P<sidx>\d+) &#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=Nc(?P=gen)(?P=num)&#91;^=&#93;+=(?P<tidx>\d+)\b
+}}

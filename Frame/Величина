@@ -1,0 +1,53 @@
+{{Frame
+|Name gloss=Size
+|Family=Схемы шкалы,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=размер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=величина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=большой.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=крупный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=огромный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=великий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мелкий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=небольшой.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=малый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=маленький.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=увеличивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=увеличить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=больший.a
+}}
+|LinkEnglish=Size
+|Applicability=Russian
+}}

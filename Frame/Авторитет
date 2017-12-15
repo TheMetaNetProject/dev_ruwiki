@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=Authority
+|Comments=An Authority_entity has legitimate control over one or more variables of entities/processes/situations that are within the Authority_entity's (legitimate) domain_of_authority. This frame is a more specific subcase of Control, with added constraints relating to the legitimacy of the source of the Authority's power, the ways this control may be exercised, and which types of things can be controlled. Note that "legitimacy" may be granted and/or assessed in different ways. With authority comes the implied responsibility to exercise that authority when needed.
+|Family=Cхемы Управления,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=авторитет_лицо
+|Role.Name gloss=authority_entity
+|Role.FrameNet role=Leader
+}}{{Role
+|Role.Name=источник_авторитета
+|Role.Name gloss=source_of_authority
+}}{{Role
+|Role.Name=домена_авторитета
+|Role.Name gloss=domain_of_authority
+}}{{Role
+|Role.Name=под_управлением
+|Role.Name gloss=governed
+|Role.FrameNet role=Governed
+}}{{Role
+|Role.Name=под_управлением_деятельность
+|Role.Name gloss=governed_activity
+}}{{Role
+|Role.Name=авторитет_мощность
+|Role.Name gloss=authority_power
+}}{{Role
+|Role.Name=авторизованные_действия
+|Role.Name gloss=authorized_actions
+}}{{Role
+|Role.Name=авторитет_отношения
+|Role.Name gloss=authority_relation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Контроль
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Доверие
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=авторитет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=власть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=власти.n
+}}
+|LinkEnglish=Authority
+|Applicability=Russian
+}}

@@ -1,0 +1,57 @@
+{{Frame
+|Name gloss=Money
+|Family=Cхемы Деньги, Схемы ресурсов
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=деньги.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зарплата.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пенсия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доход.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=монетные.a валюты.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наличные.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наличные.a деньги.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=валюта.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=монета.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=монетка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кошелек.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капитал.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=фонд.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= денежный.a
+}}
+|LinkEnglish=Money
+|Applicability=Russian
+}}

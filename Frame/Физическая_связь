@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=Physical connection
+|FrameNet frame=Connectors, Attaching
+|Family=Схемы структуры события,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=привязанность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=переплет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=связь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=связывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=связать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=привязывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=навязывать.v
+}}
+|LinkEnglish=Physical connection
+|Applicability=Russian
+}}

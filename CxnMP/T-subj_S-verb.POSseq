@@ -1,0 +1,7 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-subj_S-verb
+|Comments=Subject-verb construction: backup incase parse fails
+common nom noun followed by matching number 3-marked V
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=Nc&#91;fmnc&#93;(?P<number>&#91;sp&#93;)n&#91;ny&#93;=(?P<tidx>\d+) &#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=Vmi&#91;pfs&#93;3(?P=number)-a-&#91;^=&#93;+=(?P<sidx>\d+)\b
+}}

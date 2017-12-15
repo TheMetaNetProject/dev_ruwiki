@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=Factory
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=фабрика.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=завод.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сборочный_конвейер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рабочий.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=производительный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=продуктивный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=непродуктивный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=производство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=производить.v
+}}
+|Applicability=Russian
+}}

@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Addiction
+|Family=Вред, Вред живому существу
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зависимость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наркомания.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=oпьяненный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=передозировка.n
+}}
+|LinkEnglish=Addiction
+|Applicability=Russian
+}}

@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=PURPOSEFUL ACTION - IS SELF-PROPELLED MOTION TOWARDS PLACE DESTINATION
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=191
+}}
+|Family=Метафора структуры события,
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=самоходнoе движение к месту назначения
+|Target frame=целеустремленое действие 
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО САМОХОДНOЕ ДВИЖЕНИЕ ПО ПУТИ
+|Related metaphor.Description=entailed
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Если это не будет честно, мы никуда с этим не придём.
+|Example.Gloss=If that not be fair, we nowhere with that not come.
+|Example.English translation=If this will not be honest, we will come nowhere with this.
+|Example.Provenance=russianbiblestudy.com/FastAndPray.html
+}}
+|Entered by=Kristina
+|Status=in development
+|Investigated for=Russian
+}}

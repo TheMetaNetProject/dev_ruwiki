@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Pressure
+|Type=Cog, Composed
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Физическое бремя
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=давление.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=облегчение.n
+}}
+|LinkEnglish=Pressure
+|Applicability=Russian
+}}

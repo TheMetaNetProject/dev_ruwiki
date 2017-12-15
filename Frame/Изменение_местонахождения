@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=Change of_location
+|Family=Схемы местонахождения,
+|Tags=Program sources
+|Type=Cog, Primary
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Быть в местонахождении
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=переходить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=переезжать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перескакивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выбираться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вылезать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=влезать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перемещение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=попасть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=влезть.v
+}}
+|LinkEnglish=Change of location
+}}

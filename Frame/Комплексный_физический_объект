@@ -1,0 +1,46 @@
+{{Frame
+|Name gloss=Complex physical object
+|FrameNet frame=Entity
+|Comments=This frame captures physical objects characterized by part-whole structure, including biological entities.
+|Family=Cхемы сущности, 
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Часть целое
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Объект 
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сущность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=существо.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=объект.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=организация.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=организм.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бытие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вещь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=индивидуум.n
+}}
+|LinkEnglish=Complex physical object 
+|Applicability=Russian
+}}

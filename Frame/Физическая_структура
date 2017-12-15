@@ -1,0 +1,48 @@
+{{Frame
+|Name gloss=Physical structure
+|FrameNet frame=Buildings
+|Family=Cхемы сущности,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Комплексный  физический объект
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Функциональность
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=структура.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=конструкция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=строение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=построить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=строить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=создавать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=стабильный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=внешний.a черта.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=строительство.n
+}}
+|LinkEnglish=Physical structure
+|Applicability=Russian
+}}

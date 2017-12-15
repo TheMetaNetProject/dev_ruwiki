@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=Experiencing a_state
+|FrameNet frame=State
+|Family=Схемы связанные со состоянием, Схемы связанные со свойством,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Состояние
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Процесс
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=эйфория.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=печаль.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уныние.n
+}}
+|LinkEnglish=Experiencing a state
+}}

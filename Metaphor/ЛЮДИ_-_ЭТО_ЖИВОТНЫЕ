@@ -1,0 +1,46 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ЛЮДИ - ЭТО ЖИВОТНЫЕ
+}}
+|Family=Zoomorphic metaphors
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Animals
+|Target frame=Person
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Американцы должны молчать, а не мычать. Почему они засадили Ассанжа в тюрьму? Есть русская пословица "Чья бы корова мычала, а твоя бы молчала"
+|Example.Gloss=Americans should be silent and not moo. Why did they send Assange to jail? Is it democracy? There is a Russian proverb “Whatever cow moos, it shouldn’t be yours”
+|Example.English translation=Americans should be silent and not moo. Why did they send Assange to jail? Is it democracy? There is a Russian proverb “Who's talking, and your silence would”.
+|Example.Provenance=Putin's speech
+|Example.Comments=about Americans criticizing Russian democracy while commenting on persecution of Julian Assange - WikiLeaks. The meaning of the proverb - one shouldn't criticize or blame others for doing smth, if one does the same.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Попугаи-коммунисты привыкли выкрикивать устаревшие лозунги.
+|Example.Gloss=Communist parrots got used to yelling out outdated slogans
+|Example.English translation=Communist parrots got used to referring to outdated slogans
+|Example.Provenance=Zhirinovsky's speech
+}}{{Example
+|Example.Language=Russian
+|Example.Text=А акулы бизнеса поняли, что было бы лучше разделиться на несколько маленьких рыб и попасть под единый налог.
+|Example.Gloss=And business sharks realized it would be better to split into several small fishes and dive under the unitary tax.
+|Example.English translation=And business sharks realized it would be better to split into several small fishes and pay the unitary tax.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Я бы вряд ли это сделал, если бы вилял хвостом (заискивал) перед губернаторами.
+|Example.Gloss=I would hardly do it if I wagged the tail in front of governors
+|Example.English translation=I would hardly do it if I curried favor with the governors
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Я,как таракан в армированной банке,хожу из резиденции в Кремль и обратно.
+|Example.Gloss=I'm like a cockroach in an armored pot running from the residence to the Kremlin and back
+|Example.English translation=I'm like a cockroach in an armored pot going from the residence to the Kremlin and back
+|Example.Provenance=Putin's speech
+}}
+|Entered by=Inna
+|Status=in development
+|Investigated for=Russian
+}}

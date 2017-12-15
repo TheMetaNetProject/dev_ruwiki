@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=BEING IMPOVERISHED - IS BEING AT A_LOW LOCATION
+|Aliases=
+|Tags=Program sources
+|Family=Метафоры Бедность
+|Metaphor Level=Specific
+|Source frame=быть на низком местонахождении
+|Target frame=быть бедной
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=БЫТЬ В СОСТОЯНИИ - ЭТО БЫТЬ В МЕСТОНАХОЖДЕНИИ
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=стать бедным
+|Entailment.Source inference=двигаться вниз
+|Entailment.Entailed metaphors=СТАТЬ БЕДНЫМ - ЭТО ДВИГАТЬСЯ ВНИЗ
+}}
+|Examples=
+|Entered by=Metabot,
+|Last reviewed by=Kristina
+|Status=in development, auto imported
+|LinkEnglish=BEING IMPOVERISHED IS BEING AT A LOW LOCATION
+}}

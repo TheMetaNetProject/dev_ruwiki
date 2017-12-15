@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=Education
+|Family=Схемы Образование
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Знание
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=воспитание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=образование.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=школа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=министр.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=государство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обучение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ученый.a
+}}
+|LinkEnglish=Education
+|Applicability=Russian
+}}

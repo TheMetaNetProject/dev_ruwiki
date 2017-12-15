@@ -1,0 +1,39 @@
+{{Metaphor
+|Name gloss=GOVERNMENT - IS PARENT
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT IS A PARENT
+}}
+|Family=Метафоры управления, Метафоры правительственных функций, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=семья_ядро (family-nuclear)
+|Target frame=Действие управления
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ПРАВИТЕЛЬСТВО - ЭТО ОСОБА
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=НАЦИЯ - ЭТО СЕМЬЯ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Правительство любит тебя!
+|Example.Gloss=Government loves you!
+|Example.English translation=Government loves you!
+|Example.Provenance=demotivators.to/.../pravitelstvo-lyubit-tebya
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Правительство защищает нас от опасностей и спасает нас в минуты таковой.
+|Example.Gloss=Government protects us from danger and saves us in minute such.
+|Example.English translation=The government protects us from danger and saves us in times like these.
+|Example.Provenance=http://www.youtube.com/watch?v=v1MUyQfrzwY
+}}{{Example
+|Example.Language=Russian
+}}
+|Entered by=Kristina
+|Status=in development
+|LinkEnglish=GOVERNMENT IS A PARENT
+|Investigated for=Russian
+}}

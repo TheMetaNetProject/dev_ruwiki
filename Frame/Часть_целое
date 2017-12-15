@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=Part whole
+|FrameNet frame=Part_whole
+|Family=Образные схемы
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=часть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=целое.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=весь.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=целый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=фрагмент.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отрывок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кусок.n
+}}
+|LinkEnglish=Part whole
+|Applicability=Russian
+}}

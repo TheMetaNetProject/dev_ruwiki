@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=Movement out_of location
+|Type=Cog
+|Status=in development
+|Entered by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение по пути
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ограниченная область
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Движение в местонахождения
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выход.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уехать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выехать.v
+}}
+|LinkEnglish=Movement out of a location
+|Applicability=Russian
+}}

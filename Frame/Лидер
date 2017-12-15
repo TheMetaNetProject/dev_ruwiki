@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=Leader
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=последователь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лидер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вести.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=следовать.v
+}}
+|Applicability=Russian
+}}

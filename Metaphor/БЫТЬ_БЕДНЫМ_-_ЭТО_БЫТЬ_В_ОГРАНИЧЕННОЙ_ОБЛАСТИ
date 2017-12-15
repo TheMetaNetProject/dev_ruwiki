@@ -1,0 +1,45 @@
+{{Metaphor
+|Name gloss=BEING IMPOVERISHED - IS BEING IN A_BOUNDED REGION
+|Aliases=
+|Family=Бедность
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=быть в ограниченной области
+|Target frame=Оказаться обедневший
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ИСПЫТЫВАТЬ СОСТОЯНИЕ - ЭТО БЫТЬ В МЕСТОНАХОЖДЕНИИ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Папа наказал кардиналам жить в бедности.
+|Example.Gloss=Pope ordered cardinals to live in poverty
+|Example.English translation=The Pope instructed cardinals to live in poverty
+|Example.Provenance=http://www.telegraf.lv/news/papa-nakazal-kardinalam-zhity-v-bednosti
+}}{{Example
+|Example.Language=Russian
+|Example.Text=многие из них существуют в бедности и изоляции, как в отдаленных резервациях, так и в больших городах.
+|Example.Gloss=Many of them exist in poverty and isolation both in remote reserves, and in large cities.
+|Example.English translation=Many of them exist in poverty and isolation both in remote reserves, and in large cities.
+|Example.Provenance=http://www.cdnexperience.ca/ru/read-the-series/24-first-nations-european-contact-to-the-present/
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Почему Иисус родился в бедности, а Церковь в богатстве?
+|Example.Gloss=Why Jesus born in poverty, and Church born in richness?
+|Example.English translation=Why Jesus was born in poverty, and the Church was born in richness?
+|Example.Provenance=http://www.katolik.ru/vopros-otvet/110768-pochemu-iisus-rodilsya-v-bednosti-a-tserkov-v-bogatstve.html
+}}{{Example
+|Example.Language=Russian
+|Example.Text=В Кыргызстане 21,4% населения проживает в нищете.
+|Example.Gloss=In Kyrgyzstan, 21.4% of population resides in poverty.
+|Example.English translation=In Kyrgyzstan, 21.4% of the population resides in poverty.
+|Example.Provenance=http://www.kabar.kg/rus/society/full/48743
+}}
+|Entered by=Kristina,
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=BEING IMPOVERISHED IS BEING IN A BOUNDED REGION
+|Investigated for=Russian
+}}

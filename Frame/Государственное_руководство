@@ -1,0 +1,72 @@
+{{Frame
+|Name gloss=State leadership
+|FrameNet frame=Leadership
+|Family=Cхемы лидеров,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Лидерство
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Лидер
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Нация
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=король.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=царь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=монарх.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=премьер-министр.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=президент.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=канцлер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вице-президент.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=деспот.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тиран.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=император.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=министр.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=шейх.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=диктатор.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=султан.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=власть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=власти.n
+}}
+|LinkEnglish=State leadership
+|Applicability=Russian
+}}

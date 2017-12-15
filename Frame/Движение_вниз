@@ -1,0 +1,78 @@
+{{Frame
+|Name gloss=Motion downward
+|Family=Cхемы движения,
+|Tags=Program sources
+|Type=Cog, Composed
+|Status=in development, auto imported
+|Entered by=Kristina,
+|Last reviewed by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=изменение местонахождения
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение по пути
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Вертикальность
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Движение  вверх
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=впасть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=скатиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=погруженный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=погружаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=скатиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ввергать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=погружатьс.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=провалиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=падать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=снизить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=свалиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сваливаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нисходящей спирали.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=спад.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=упадок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оползание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тонуть.v
+}}
+|LinkEnglish=Downward motion
+}}

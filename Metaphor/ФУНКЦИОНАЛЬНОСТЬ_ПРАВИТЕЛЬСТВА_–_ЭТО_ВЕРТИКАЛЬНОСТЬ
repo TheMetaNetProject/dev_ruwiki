@@ -1,0 +1,49 @@
+{{Metaphor
+|Name gloss=FUNCTIONALITY GOVERNMENT - IS VERTICALITY
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT FUNCTIONALITY IS VERTICALITY
+}}
+|Family=Метафоры управления,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Вертикальность
+|Target frame=Правительство
+|Mappings={{Mapping
+|Target=government_whole
+|Source=vertical_entity
+}}{{Mapping
+|Target=functional_status
+|Source=scalar_position
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ФУНКЦИОНАЛЬНОСТЬ – ЭТО ВЕРТИКАЛЬНОСТЬ
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=изменениe в статусу функциональности правительства
+|Entailment.Source inference=изменениe вертикальности
+}}
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Правительство пало!
+|Example.Gloss=Government fell!
+|Example.English translation=The government fell.
+|Example.Provenance=www.pctvl.lv › Главная › Архив новостей
+}}{{Example
+|Example.Language=Russian
+|Example.Text=революция в Российской империи, итогом которой стало падение монархии
+|Example.Gloss=Revolution in Russian Empire, result which became falling monarchy
+|Example.English translation=Revolution in the Russian Empire, which culminated in the fall of the monarchy
+|Example.Provenance=history812.narod.ru/vopros40.html
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Временное правительство - история правления и падения
+|Example.Gloss=Provisional Government - history governance and fall
+|Example.English translation=The Provisional Government - the history of governance and fall
+|Example.Provenance=www.youtube.com/watch?v=dKL
+}}
+|Entered by=Kristina
+|Status=in development
+|LinkEnglish=GOVERNMENT FUNCTIONALITY IS VERTICALITY
+|Investigated for=Russian
+}}

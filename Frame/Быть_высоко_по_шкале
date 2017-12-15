@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Being high on a_scale
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Шкала
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=верхний.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высокий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высший.a
+}}
+|LinkEnglish=Being high on a scale
+}}

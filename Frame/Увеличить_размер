@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Increase size
+|Family=Схемы шкалы, Схемы физической собственности 
+|Type=Frame
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Размер
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Уменьшить размер
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=надутый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=раздутый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=расширить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=расширять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= расшириться.v
+}}
+|LinkEnglish=Increase size
+|Applicability=Russian
+}}

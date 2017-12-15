@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=Voting rights
+|Family=Схемы Выборы, 
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Kristina, 
+|Roles={{Role
+|Role.Name gloss=enfranchised_voter 
+|Role.Definition=person with right to vote
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Голосование
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Права
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=права.n голоса.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= Право.n голосования.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=предоставлять.v избирательные.a права.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лишить.v гражданских.a прав.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=избирательное.a право.n
+}}
+|LinkEnglish=Voting rights
+|Applicability=Russian
+}}

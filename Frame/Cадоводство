@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=Gardening
+|Type=Frame
+|Entered by=Patricia, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Растение
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=cадоводство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=посадить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сад.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вырвать.v
+}}
+|LinkEnglish=Gardening
+|Applicability=Russian
+}}

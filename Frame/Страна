@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=Country
+|Family=Cхемы Управления, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Нация
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Политический регион
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=страна.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=местность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= Россия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=США.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Иран.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Мексика.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Соединенные.a Штаты.n
+}}
+|LinkEnglish=Country
+|Applicability=Russian
+}}

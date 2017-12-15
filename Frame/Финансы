@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Finance
+|Family=Cхемы Управления, Экономические схемы
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Экономика
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=финансы.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=финансовый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инвестиция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инвестирование.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капиталовложение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=фискальный.a
+}}
+|LinkEnglish=Finance 
+|Applicability=Russian
+}}

@@ -1,0 +1,63 @@
+{{Frame
+|Name gloss=Employment
+|FrameNet frame=Employment_scenario, Being_employed
+|Comments= An employer employs an employee. Employee agrees to perform certain duties that achieve employer-determined objectives, and employer compensates employee for performing these duties. 
+|Family=Схемы Богатство и Социальный Класс, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles={{Role
+|Role.Name gloss=employee 
+|Role.Type=person
+|Role.FrameNet role=Employee 
+}}{{Role
+|Role.Name gloss=employer 
+|Role.Type=person
+|Role.FrameNet role=Employer 
+}}{{Role
+|Role.Name gloss=employee_duties 
+}}{{Role
+|Role.Name gloss=employee_compensation 
+}}{{Role
+|Role.Name gloss=employer_objectives 
+}}{{Role
+|Role.Name gloss=employer-employee_relation 
+}}{{Role
+|Role.Name gloss=employment_occupation 
+|Role.Definition=Domain in which you are employed. 
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Контроль
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Сценарий работы
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=Работодатель имеет контроль над действиями работника.
+}}{{Inference
+|Inference.Description=Работодатель несет ответственность, чтобы компенсировать работнику за исполнение обязанностей.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=служба.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=занятие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рабочий.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=работодатель.n
+}}
+|LinkEnglish=Employment
+|Applicability=Russian
+}}

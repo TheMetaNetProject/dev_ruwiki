@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Personal weapon
+|Family=Контроль над оружием
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Комплексный физический объект
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пистолет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пушка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пулемет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=револьвер.n
+}}
+|LinkEnglish=Personal weapon
+|Applicability=Russian
+}}

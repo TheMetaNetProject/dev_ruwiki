@@ -1,0 +1,6 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-noun_of_T-noun
+|Comments=N of N constructions: backup in case dparse fails рабы=раб=Ncmpny=3 денег=деньги=Ncmpgn=4
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=N&#91;^=&#93;+=(?P<tidx>\d+) &#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=N&#91;^=&#93;+g&#91;ny&#93;=(?P<sidx>\d+)\b
+}}

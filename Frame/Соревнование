@@ -1,0 +1,83 @@
+{{Frame
+|Name gloss=Competition
+|Family=Cхемы конкурса,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Оценка
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=конкурент который лучше на шкале расстояния, количества, интенсивности, количества,длительности, становится победителем.
+|Inference.Type=культурный
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=конкурировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=соревноваться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=состязаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=конкуренция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=соревнование.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=победа.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выиграть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выигрышь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выигрывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=побеждать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=победитель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=проигравший.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лузер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=проигрывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=терять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=противник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=соперник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оппонент.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=конкурент.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поражение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=состязание.n
+}}
+|LinkEnglish=Competition
+|Applicability=Russian
+}}

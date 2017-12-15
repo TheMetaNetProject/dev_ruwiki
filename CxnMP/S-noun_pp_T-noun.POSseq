@@ -1,0 +1,7 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-noun_pp_T-noun
+|CxnMPDescription=S-Noun PP T-Noun modification construction: backup in case parse fails
+|Comments=бегству=бегство=Ncnsdn=4 от=от=Sp-g=5 бедности=бедность=Ncfsgn=6
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=Nc&#91;^=&#93;+=(?P<sidx>\d+) &#91;^=&#93;+=&#91;^=&#93;{1,2}=Sp&#91;^=&#93;+=\d+ &#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=Nc&#91;^=&#93;+=(?P<tidx>\d+)\b
+}}

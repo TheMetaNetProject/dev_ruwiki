@@ -1,0 +1,39 @@
+{{Metaphor
+|Name gloss=NATION IS A MACHINE
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=СТРАНА - ЭТО МАШИНА
+|Metaphor.Alias.Provenance=N.N. Baranov
+}}
+|Family=Метафоры управления, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Машина
+|Target frame=Нация
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Не только Сколково, но и все "инновационные территории" будут двигателем развития страны.
+|Example.Gloss=Not only “Skolkovo”, but also all the “innovative territories” will be the engine of the country development
+|Example.English translation=Not only “Skolkovo”, but also all the “innovative territories” will be the engine of the country development
+|Example.Provenance=Putin's speech
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Как вам показалось, хватит у Путина воли, чтобы запустить государственную машину на полный ход?
+|Example.Gloss=How to you seemed, enough Putin has will to launch state machine on full speed?
+|Example.English translation=Do you think Putin has enough will to run the state machine at full speed?
+|Example.Provenance=A. Baranov
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Россия, ее государственная система не может больше жить по временной схеме. В любой момент она грозит замыканием или пожаром
+|Example.Gloss=Russia, its government system can't any more live under temporary scheme. At any moment it threatens closure or fire
+|Example.English translation=Russia, its government system can't live under a temporary scheme any more. It threatens closure or fire at any time.
+|Example.Provenance=B. Eltzin
+}}
+|Entered by=Unknown
+|Last reviewed by=Kristina
+|Status=in development
+|LinkEnglish=NATION IS A MACHINE
+|Investigated for=Russian
+}}

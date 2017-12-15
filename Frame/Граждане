@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=Citizens
+|Family=Cхемы Управления, 
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Нация
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гражданин.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гражданка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=штатский.a
+}}
+|LinkEnglish=Citizens 
+|Applicability=Russian
+}}

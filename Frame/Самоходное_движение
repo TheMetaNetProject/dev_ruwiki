@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=Self-propelled motion
+|Family=Cхемы движения, Cхемы задетых движения, Cхемы действие
+|Entered by=Patricia,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=скакать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=скакнуть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перескакивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перескочить.v
+}}
+|LinkEnglish=Self propelled motion
+|Applicability=Russian
+}}

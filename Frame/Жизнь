@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Life
+|FrameNet frame=People, Dead_or_alive, Timespan, Manner_of_life
+|Comments=Определяется как последовательность действий, выполняемых в течение всей жизни.
+|Type=Frame
+|Cultural information=There is probably a universal conception of life, but there are cultural distinctions. In Western society, people are expected to have a purpose in life. It is human life, with all its associated meaningfulness and value, that is important in this frame.
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=life_liver
+}}{{Role
+|Role.Name=life_span
+}}{{Role
+|Role.Name=life_goals
+}}{{Role
+|Role.Name=life_stages
+}}{{Role
+|Role.Name=life_difficulties
+}}{{Role
+|Role.Name=lifestyle
+}}{{Role
+|Role.Name=life_companion
+}}{{Role
+|Role.Name=life_relationships
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Последовательность действий (Sequence_of_actions)
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Life
+|Applicability=English
+}}

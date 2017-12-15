@@ -1,0 +1,57 @@
+{{Frame
+|Name gloss=Being at a_Low Location
+|Family=Схемы местонахождения,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=быть в местонахождении
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Быть на высоком местонахождении
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=дно.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=низ.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=внизу.adv
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=черта.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нижний.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=низкий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=низший.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пониженный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=понизить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=снижать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=понижать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ад.n
+}}
+|LinkEnglish=Being at a Low Location
+}}

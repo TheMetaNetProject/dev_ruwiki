@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Deity
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=божество.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поклоняться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кумир.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=власть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обожествления.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=молиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поклоняться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бог.n
+}}
+|LinkEnglish=Deity
+|Applicability=Russian
+}}

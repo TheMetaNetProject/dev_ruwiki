@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Trajector landmark
+|FrameNet frame=Trajector-Landmark
+|Family=Пространственные отношения, Образные схемы
+|Type=Cog
+|Status=in development
+|Entered by=Kristina, 
+|Roles={{Role
+|Role.Name=траектор 
+|Role.Name gloss=trajector 
+|Role.FrameNet role=Trajector 
+}}{{Role
+|Role.Name=ориентир
+|Role.Name gloss=landmark 
+|Role.FrameNet role=Landmark 
+}}{{Role
+|Role.Name=профилированная_область
+|Role.Name gloss=profiled_region 
+|Role.Definition= 	"profiled" region within larger space. Typically defined with respect to landmark, and the region in which a trajector is located 
+|Role.FrameNet role=profiled_region 
+}}{{Role
+|Role.Name=фон
+|Role.Name gloss=background 
+|Role.Definition= 	the larger spatial extent within which trajector and landmark are located 
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ограниченная  область
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Trajector landmark
+|Applicability=Russian
+}}

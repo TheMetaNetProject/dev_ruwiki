@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=Leadership
+|Family=Cхемы лидеров, Cхемы Управления,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Last reviewed by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=руководить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=руководитель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лидерство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лидер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вести.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=глава.n
+}}
+|LinkEnglish=Leadership
+|Applicability=Russian
+}}

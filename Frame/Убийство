@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Killing
+|Family=Вред, Вред живому существу, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Преступление
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=убивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=убийство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=умерщвлять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уморить.v
+}}
+|LinkEnglish=Killing
+|Applicability=Russian
+}}

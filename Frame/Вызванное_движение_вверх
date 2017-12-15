@@ -1,0 +1,48 @@
+{{Frame
+|Name gloss=Caused Motion Upward
+|Family=Cхемы движения,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Вызванное изменение местонахождения
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение вверх
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подниматься.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=повышаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поднимать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лазить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=взбираться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=восходить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=взорваться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подтянуть.v
+}}
+|LinkEnglish=Caused Upward Motion
+}}

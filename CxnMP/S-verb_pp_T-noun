@@ -1,0 +1,26 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_pp_T-noun
+|CxnMPDescription=S-Verb PP T-Noun constructions
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, "^V") .
+    FILTER regex(?tpos, "^N") .
+    ?prep rdf:type doc:Word .
+    ?prep doc:inSentence ?sent .
+    ?target doc:objprep ?prep .
+    ?prep (doc:dep&#124;doc:spmod) ?source .
+}
+}}

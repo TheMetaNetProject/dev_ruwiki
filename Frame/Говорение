@@ -1,0 +1,42 @@
+{{Frame
+|Name gloss=Speaking
+|FrameNet frame=Speak_on_topic
+|Family=Схемы коммуникации, 
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=говорить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разговаривать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=изъясняться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=произносить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=речь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=говорение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=слова.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=говор.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=произношение
+}}
+|LinkEnglish=Speaking
+|Applicability=Russian
+}}

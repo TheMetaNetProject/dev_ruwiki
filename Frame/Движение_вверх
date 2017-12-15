@@ -1,0 +1,89 @@
+{{Frame
+|Name gloss=Motion upward
+|Family=Cхемы движения,
+|Tags=Program sources
+|Type=Cog, Composed
+|Status=in development, auto imported
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Изменение местонахождения
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение по пути
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Вертикальность
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Движение  вниз
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=достижение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=достигнуть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вылезти.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выбраться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выйти.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вылезать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=достигать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поднять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поднимать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подняться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подниматься.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=расти.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=растить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выходить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=прыгать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=прыгнуть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перепрыгивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перепрыгнуть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подскочить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подскакивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выход.n из.p
+}}
+|LinkEnglish=Upward motion
+}}

@@ -1,0 +1,71 @@
+{{Frame
+|Name gloss=Movement of_fluid
+|Family=Cхемы движения
+|Type=Frame
+|Status=in development
+|Entered by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение по пути
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Жидкость
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=течь.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=просачиваться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=просочиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сочиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=застойный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капельный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=затопить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вилить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обливать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=влить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наливать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выливать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=изливать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вливать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поливать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высыпать.v
+}}
+|LinkEnglish=Fluid motion
+|Applicability=Russian
+}}

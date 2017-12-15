@@ -1,0 +1,41 @@
+{{Frame
+|Name gloss=Power
+|Family=Cхемы Управления, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Контроль
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Авторитет
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Легитимность
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мощность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мощь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сила.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мощный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сильный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=могучий.a
+}}
+|LinkEnglish=Power
+|Applicability=Russian
+}}

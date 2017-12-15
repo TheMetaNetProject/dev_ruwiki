@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=Purity
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чистый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=непорочный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нечистый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грязный.a
+}}
+|LinkEnglish=Purity
+|Applicability=Russian
+}}

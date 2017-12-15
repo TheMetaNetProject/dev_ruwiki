@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Action governing
+|Family=Cхемы Управления,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=правительство
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=целеустремленое действие
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Процесс
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=управлять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=руководить.v
+}}
+|LinkEnglish=Governing action
+|Applicability=Russian
+}}

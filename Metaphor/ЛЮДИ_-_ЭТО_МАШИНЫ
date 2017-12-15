@@ -1,0 +1,36 @@
+{{Metaphor
+|Name gloss=PEOPLE - ARE MACHINES
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Provenance=Metaphors We Live By, Philosophy in the Flesh
+}}
+|Family=Social Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Машина
+|Target frame=Особа
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Директор небольшого завода стал не только аккумулятором всех оппозиционных сил, но и превратился в успешного хозяйственника
+|Example.Gloss=Director of a small plant became not only accumulator of all opposition forces but also turned into a successful handyman.
+|Example.English translation=The director of a small plant has become not only a battery of the whole opposition but also has turned into a successful handyman.
+|Example.Provenance=S. Sorokin
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Первый зам у нас выступает как буфер между генеральным директором и руководителями подразделений.
+|Example.Gloss=First deputy with us acts as buffer between Director General and Divivsions Manager
+|Example.English translation=The first deputy of our company serves as a buffer Director General and Divivsions Manager.
+|Example.Provenance=G. Ananjev
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Ходят слухи, что вас могут отключить от рубильника? - Не отключат!
+|Example.Gloss=Rumors go that you can be disconnected from the circuit breaker? - Won't disconnect!
+|Example.English translation=Rumors are in the air you can be disconnected from the circuit breaker? - No way to do so!
+|Example.Provenance=N. Efimovich
+}}
+|Entered by=Inna,
+|Status=in development
+|Investigated for=Russian
+}}

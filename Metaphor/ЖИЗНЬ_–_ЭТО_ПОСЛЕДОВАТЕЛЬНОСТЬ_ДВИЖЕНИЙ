@@ -1,0 +1,35 @@
+{{Metaphor
+|Name gloss=LIFE - IS SEQUENCE MOTIONS
+|Name transcription=ZHIZN – ETO POSLEDOVATELNOST DVIZHENIY
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LIFE IS A SEQUENCE OF MOTIONS
+|Metaphor.Alias.Provenance=(Philosophy in the Flesh)
+}}
+|Family=ЛЮБОВЬ ЭТО ПУТЕШЕСТВИЕ Каскад, Russian primary metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex, Entailed
+|Source frame=Движение по пути
+|Target frame=Жизнь
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ЖИЗНЬ – ЭТО ПУТЕШЕСТВИЕ
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО САМОХОДНOЕ ДВИЖЕНИЕ ПО ПУТИ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Настало время сделать следующий шаг в жизни.
+|Example.Gloss=Came time make next step in life.
+|Example.Transcription=Nastalo vremya sdelat sleduyushchiy shag v zhizni.
+|Example.English translation=It is time to take the next step in life.
+|Example.Provenance=www.nakanune.ru/news/2012/12/18/22295336/‎
+}}
+|Entered by=Kristina,
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=LIFE IS A SEQUENCE OF MOTIONS
+|Investigated for=Russian
+}}

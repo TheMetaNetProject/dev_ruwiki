@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=Child care
+|Comments=A child care provider (e.g. nanny, babysitter, grandmother, or parent) is responsible for the safety, health and well-being of one or more children.
+|Family=Cхемы Управления, Схемы Образование,
+|Type=Frame
+|Status=in development
+|Entered by=Patricia,
+|Last reviewed by=Kristina,
+|Roles={{Role
+|Role.Name=Охрана_детства_поставщик
+|Role.Name gloss=childcare_provider
+}}{{Role
+|Role.Name=ребенок
+|Role.Name gloss=child
+}}{{Role
+|Role.Name=Охрана_детства_обязанности
+|Role.Name gloss=childcare_duties
+}}{{Role
+|Role.Name=работодатель
+|Role.Name gloss=employer
+|Role.Definition=optional role
+}}{{Role
+|Role.Name=Охрана_детства_цели
+|Role.Name gloss=childcare_objectives
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Сценарий работы
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Авторитет
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=детский_сад.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=няня.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нянька.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мать.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=присматривать.v за.p ребенком.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уход.n за.p детьми.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=охранять.v
+}}
+|LinkEnglish=Child care
+|Applicability=Russian
+}}

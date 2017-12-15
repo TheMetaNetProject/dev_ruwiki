@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Control of guns
+|Family=Контроль над оружием
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Контроль
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Оружие
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Контроль.n над.p оружием.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=контроль.n над.p огнестрельным.a оружием.n
+}}
+|LinkEnglish=Gun control
+|Applicability=Russian
+}}

@@ -1,0 +1,51 @@
+{{Metaphor
+|Name gloss=NATION - IS FAMILY
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ГОСУДАРСТВО - ЭТО СЕМЬЯ, NATION IS A FAMILY
+}}
+|Family=Метафоры управления,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=cемья
+|Target frame=нация
+|Mappings={{Mapping}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ПРАВИТЕЛЬСТВО - ЭТО РОДИТЕЛЬ
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=НАЦИЯ - ЭТО МАТЬ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Люди Русские, братья и сёстры – славяне!
+|Example.Gloss=People Russian, brothers and sisters - Slavs!
+|Example.English translation=Russian people, brothers and sisters - the Slavs!
+|Example.Provenance=http://via-midgard.info/news/article/12143-otbroste-vash-strax-lyudi-russkie-bratya-i-sestry.html
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Где бы ни жили русские люди, мы знаем, что мы – одна семья.
+|Example.Gloss=Where would not live Russian people, we know, that we - one family.
+|Example.English translation=Wherever Russian people might live, we know that we are one family.
+|Example.Provenance=http://australianlampada.com/article/sobitia/sobitia_4862.html
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Мы (русские, украинцы и белорусы) были непобедимы, когда были вместе. У нас общие корни, мы - единая семья.
+|Example.Gloss=We (Russiaans, Ukranians and Belarussians)were invincible, when were together. We have common roots, we - one family
+|Example.English translation=We (Russiaans, Ukranians and Belarussians)used to be invincible, when we were together. We have common roots, we are a family.
+|Example.Provenance=www.scriru.com/1/42/73932492526.php‎
+}}{{Example
+|Example.Language=Russian
+|Example.Text=В российской семье не должно быть старших и младших братьев.
+|Example.Gloss=In Russian family not should be elder and younger brothers.
+|Example.English translation=There shouldn't be elder and younger brothers in the Russsian family.
+|Example.Provenance=metdo.ru/docs/1/index-355664.html?page=11
+}}{{Example
+|Example.Language=Russian
+}}
+|Entered by=Kristina
+|Status=in development
+|LinkEnglish=NATION IS A FAMILY
+|Investigated for=Russian
+}}

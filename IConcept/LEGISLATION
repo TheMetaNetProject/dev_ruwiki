@@ -1,0 +1,14 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE 
+|ConceptFrames={{Linked frame
+|Frame name=Действие законодательства
+}}{{Linked frame
+|Frame name=Разработка законодательства
+}}{{Linked frame
+|Frame name=Принятие законодательства
+}}{{Linked frame
+|Frame name=Законодательный акт
+}}
+}}

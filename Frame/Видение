@@ -1,0 +1,66 @@
+{{Frame
+|Name gloss=Seeing
+|FrameNet frame=Perception_experience
+|Family=Схемы восприятия,
+|Type=Cog
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Восприятие
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=видение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зрение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зрение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=глаз.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=око.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=видеть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=смотреть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=посмотреть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=слепой.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ослепший.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=слепой.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=невидимый.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=невидящий.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=скрытый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=открытый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рассматривать.v
+}}
+|LinkEnglish=Seeing
+|Applicability=Russian
+}}

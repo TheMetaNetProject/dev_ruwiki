@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=Darkness
+|FrameNet frame=Level_of_light
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Свет
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мрак.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=темнота.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тьма.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мрачность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=хмурость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отключать.v
+}}
+|Applicability=Russian
+}}

@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=Fire
+|Type=Frame
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=огонь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пламя.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=костер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гонило.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пожар.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=очаг.n
+}}
+|LinkEnglish=Fire
+|Applicability=Russian
+}}

@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Immoral action
+|Family=Cхемы  нравственности, Вред, Схемы действий,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Моральное действие
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Безнравственность
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=аморальный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=безнравственный.a
+}}
+|LinkEnglish=Immoral action
+|Applicability=Russian
+}}

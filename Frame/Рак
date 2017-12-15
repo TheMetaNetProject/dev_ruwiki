@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=Cancer
+|Family=Cхемы болезни
+|Type=Frame
+|Status=proposed
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=метастаз.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=опухоль.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=злокачественный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рак.n
+}}
+|Applicability=Russian
+}}

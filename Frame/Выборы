@@ -1,0 +1,86 @@
+{{Frame
+|Name gloss=Election
+|Family=Cхемы Управления, Cхемы конкурса, Схемы Выборы
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Kristina,
+|Last reviewed by=Patricia,
+|Roles={{Role
+|Role.Name=избиратель
+|Role.Name gloss=voter
+|Role.Type=person
+|Role.Definition=a person who votes in an election
+}}{{Role
+|Role.Name=кандидат
+|Role.Name gloss=candidate
+|Role.Type=person
+|Role.Definition=someone who seeks to gain office via the election
+}}{{Role
+|Role.Name=пост
+|Role.Name gloss=office
+|Role.Definition=the official function which candidates seek to fill
+}}{{Role
+|Role.Name=итог
+|Role.Name gloss=outcome
+|Role.Definition=choice of one candidate to fill a given office
+}}{{Role
+|Role.Name=голосующее_событие
+|Role.Name gloss=voting_event
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=учреждение
+|Role.Name gloss=institution
+|Role.Definition=the official institution which has the function roles
+}}{{Role
+|Role.Name=голосование
+|Role.Name gloss=ballot
+|Role.Definition=means of voter indicating choice
+}}{{Role
+|Role.Name=голосование_считающий
+|Role.Name gloss=ballot_counting
+|Role.Type=x-schema
+|Role.Definition=subcase of считающий
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Правительство
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Голосование
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Соревнование
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Дебаты
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выборы.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=голосование.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=голос.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=голосовать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выбирать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=избрание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=избирательный.a процесс.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=предвыборная.a агитация.n
+}}
+|LinkEnglish=Election
+|Applicability=Russian
+}}

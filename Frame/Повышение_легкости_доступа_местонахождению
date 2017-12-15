@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=Increase ease of_accessing a_location
+|Comments=unnecessary? 
+|Family=Схемы препятствия и обеспечения, Схемы местонахождения, 
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot, 
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=изменение местонахождения
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Возможность доступа местонахождения
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доступ.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=открытый.a
+}}
+|LinkEnglish=Increase ease of accessing a location
+}}

@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=Punishment
+|Family=Вред, Вред живому существу, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Вред живому существу
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Преступление
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=взыскание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наказание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=штраф.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кара.n
+}}{{LUs
+|LUs.Language=Russian
+}}
+|LinkEnglish=Punishment
+|Applicability=Russian
+}}

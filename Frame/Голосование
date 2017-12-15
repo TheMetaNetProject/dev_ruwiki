@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=Voting
+|Family=Cхемы Управления, Схемы Выборы,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Last reviewed by=Patricia,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=голосование.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=голосовать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=избирательная.a урна.n
+}}
+|LinkEnglish=Voting
+|Applicability=Russian
+}}

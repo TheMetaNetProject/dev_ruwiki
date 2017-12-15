@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=Business
+|Family=Экономические схемы, 
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Last reviewed by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Богатство
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Финансы
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бизнес.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=предприниматель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=промышленность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=предприятие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=фирма.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=корпорация.n
+}}
+|LinkEnglish=Business
+|Applicability=Russian
+}}

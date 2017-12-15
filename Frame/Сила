@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Force
+|Family=Схемы структуры события
+|Type=Cog
+|Status=in development
+|Entered by=Kristina
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=погасить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гасить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=погашать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мощно.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=силовой.a
+}}
+|LinkEnglish=Force
+|Applicability=Russian
+}}

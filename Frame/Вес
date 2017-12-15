@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=Weight
+|FrameNet frame=Dimension
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вес.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=масса.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=груз.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тяжесть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грузность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=легкий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тяжелый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=равновесие.n
+}}
+|LinkEnglish=Weight
+|Applicability=Russian
+}}

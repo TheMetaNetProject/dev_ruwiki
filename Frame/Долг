@@ -1,0 +1,67 @@
+{{Frame
+|Name gloss=Debt frames
+|Family=Cхемы Долг
+|Type=Frame
+|Status=in development
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=долг.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=долговой.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кредит.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=договор.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кредитка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=платёж.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=задолженность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оплатить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оплачивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чек.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обналичивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обналичить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рубль.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кредитный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=карта.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=билет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рейтинг.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гарантия.n
+}}
+|LinkEnglish=Debt frames
+|Applicability=Russian
+}}

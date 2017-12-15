@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=Doctor
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=врач.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доктор.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=хирург.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лечить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= полечить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вылечивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вылечить.v
+}}
+|Applicability=Russian
+}}

@@ -1,0 +1,58 @@
+{{Metaphor
+|Name gloss=CONTROL - IS POSSESSION
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL IS A POSSESSION
+}}
+|Family=Метафоры управления, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=владение
+|Target frame=Контроль
+|Mappings={{Mapping
+|Target=контролирующее_существо (controlling_entity)
+|Source=владетель 
+}}{{Mapping
+|Target=способность контролировать (ability_to_control) 
+|Source=владение 
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=АТРИБУТЫ – ЭТО ВЛАДЕНИЯ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=он имеет контроль над политической системой
+|Example.Gloss=he has control over political system
+|Example.English translation=he has control over the political system
+|Example.Provenance=spydell.livejournal.com/322442.html?
+}}{{Example
+|Example.Language=Russian
+|Example.Text=он имеет контроль над каждой деталью игры
+|Example.Gloss=he has control over every detail game
+|Example.English translation=he has control over every detail of the game
+|Example.Provenance=vk.com/wall-36965584_806
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Она потеряла контроль.
+|Example.Gloss=She lost control.
+|Example.English translation=She lost control.
+|Example.Provenance=tekst-pesni-tut.ru/.../tekst-pesni-lost-control/
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Обама потерял контроль над Китаем и Россией.
+|Example.Gloss=Obama lost control over China and Russia.
+|Example.English translation=Obama has lost control over China and Russia.
+|Example.Provenance=rusplt.ru/articles/translate/other_1211.html
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Правительственные войска Йемена восстановили контроль над городом Зинджибаром.
+|Example.Gloss=Government army Yemen regained control over city Zinjibar.
+|Example.English translation=Yemenian government forces have regained control over the city of Zinjibar.
+|Example.Provenance=ru.euronews.com/.../yemeni-army-reclaims
+}}
+|Entered by=Kristina, 
+|Status=in development
+|LinkEnglish=CONTROL IS A POSSESSION
+|Investigated for=Russian
+}}

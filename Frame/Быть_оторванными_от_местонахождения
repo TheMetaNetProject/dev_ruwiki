@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Being detached  from  a_location
+|Family=Схемы местонахождения, 
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=изменение местонахождения
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отрезка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отрезать.v
+}}
+}}

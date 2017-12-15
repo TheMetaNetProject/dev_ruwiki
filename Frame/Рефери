@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Referee
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Игра
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рефери.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=судья.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=игрок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=арбитр.n
+}}
+|Applicability=Russian
+}}

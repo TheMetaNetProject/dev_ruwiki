@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=Scale
+|Other aliases=Linear Scale
+|Comments=Please do not also create a 'Linear scale' frame. This is automatically linear
+|Family=Схемы шкалы, Схемы связанные со свойством
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles={{Role
+|Role.Name=параметр
+|Role.Name gloss=parameter
+}}{{Role
+|Role.Name=максимальная  величина
+|Role.Name gloss=maximal value
+}}{{Role
+|Role.Name=минимальная величина
+|Role.Name gloss=minimal value
+}}{{Role
+|Role.Name=промежуточные величины
+|Role.Name gloss=intermediate values
+}}{{Role
+|Role.Name=положение_на_шкале
+|Role.Name gloss=position_on_scale
+}}{{Role
+|Role.Name=норма
+|Role.Name gloss=norm
+}}{{Role
+|Role.Name gloss=ordered_value_relations
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Состояние
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уровень.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вершина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пирамида.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=черта.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=планка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высший.a
+}}
+|LinkEnglish=Scale
+}}

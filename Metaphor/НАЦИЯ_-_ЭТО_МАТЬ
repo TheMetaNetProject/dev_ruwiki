@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=NATION - IS MOTHER
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NATION IS MOTHER
+}}
+|Family=Метафоры управления
+|Source frame=Семья_ядро (Family_nuclear)
+|Target frame=нация
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=НАЦИЯ - ЭТО ОСОБА
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Советская Россия! Родная наша мать!
+|Example.Gloss=Soviet Russia! Native our mother!
+|Example.English translation=Soviet Russia! Our dear mother!
+|Example.Provenance=www.lingwo-wed.ru/lingwos-301-2.html
+}}
+|Entered by=Kristina
+|Status=in development
+|LinkEnglish=NATION IS MOTHER
+|Investigated for=Russian
+}}

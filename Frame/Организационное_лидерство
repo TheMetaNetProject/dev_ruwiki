@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=Organizational leadership
+|Family=Cхемы лидеров, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Лидерство
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Лидер
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Организация
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=председатель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=директор.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=руководитель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=начальник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=генеральный.a директор.n
+}}
+|LinkEnglish=Organizational leadership
+|Applicability=Russian
+}}

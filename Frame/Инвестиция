@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=Investment
+|Family=Cхемы Управления, Схемы Богатство, Экономические схемы, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инвестиция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инвестирование.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вложение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вклад.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капиталовложение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инвестировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вкладывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вкладчик .n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=акционер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=дивиденд.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=делимое.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выгода.n
+}}
+|LinkEnglish=Investment 
+|Applicability=Russian
+}}

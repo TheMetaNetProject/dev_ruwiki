@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=Nuclear family
+|FrameNet frame=Kinship
+|Comments=Семейная группа, состоящая из двух родителей и их детей
+|Family=Социальные схемы, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Семья
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=семья.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=семейство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=род.n
+}}
+|LinkEnglish=Nuclear family
+|Applicability=Russian
+}}

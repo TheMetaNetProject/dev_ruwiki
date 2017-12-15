@@ -1,0 +1,7 @@
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::confirmed]] - confirmed as a metaphorical expression
+* [[Allows value::questionable]] - unclear or questionable case
+* [[Allows value::not metaphorical]] - expression is not metaphorical
+* [[Allows value::garbage]] - expression is garbage (resulting from bad syntactic parse, etc.)

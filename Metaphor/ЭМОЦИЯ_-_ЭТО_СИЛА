@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=EMOTION - IS A_FORCE
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EMOTION IS A FORCE
+}}
+|Family=Метафоры эмоцией
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Сила
+|Target frame=эмоция
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Я была невинна, мои чувства вовлекли меня в заблуждение
+|Example.Gloss=I was innocent, my feelings dragged me in delusion.
+|Example.English translation=I was innocent, my feelings dragged me astray.
+|Example.Provenance=http://search.ruscorpora.ru/
+}}
+|Entered by=Kristina,
+|Status=in development
+|LinkEnglish=EMOTION IS A FORCE
+|Investigated for=Russian
+}}

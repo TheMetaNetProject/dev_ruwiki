@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=DIFFICULTIES - ARE IMPEDIMENTS TO MOVEMENT
+|Aliases=
+|Family=Метафора структуры события - локация, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Препятствия для движения
+|Target frame=Действие
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО САМОХОДНOЕ ДВИЖЕНИЕ ПО ПУТИ
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=ТРУДНОСТИ ДЛЯ ДЕЙСТВИЙ - ЭТО ПРЕПЯТСТВИЯ ДЛЯ ДВИЖЕНИЯ
+}}
+|Entailments=
+|Examples=
+|Entered by=Kristina, 
+|Status=in development
+|LinkEnglish= 	DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT 
+|Investigated for=Russian
+}}

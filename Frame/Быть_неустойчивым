@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=Being unstable
+|Status=in development
+|Entered by=Aleksandra, 
+|Roles=
+|Related frames={{Related frame}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=спотыкаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=споткнуться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=колебаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пошатываться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пошатнуть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=балансировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=шатать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=расшатывать.v
+}}
+|LinkEnglish=Being unstable
+|Applicability=Russian
+}}

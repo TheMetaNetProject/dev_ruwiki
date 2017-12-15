@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=Democratic institution
+|Comments=Created to reflect insights from site visit April 2014.
+
+Democratic institutions are numerous formal and informal conventional practices, laws, rules, and norms that are crucial for democratic laws and principles (along with the equality and freedom associated with democracy) to be practiced. Representation and decision-making are amongst the valued institutions of a recognized democracy, in addition to free economic institutions (including capitalism), political institutions, and social institutions.
+The democratic institutions which are relevant to a comparative cross-linguistic and cross-cultural study of metaphors include: free speech/freedom of expression, freedom of the press, unions, elections, educational institutions, health and welfare institutions, property rights, assembly and political parties, judicial and legal institutions.
+|Family=Схемы демократических учреждений
+|Type=Frame
+|Status=in development
+|Last reviewed by=Patricia
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Демократия
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Учреждение пpaвитeльcтва
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=демократическое.a учреждение.n
+}}
+|LinkEnglish=Democratic institution
+|Applicability=Russian
+}}

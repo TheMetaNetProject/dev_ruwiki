@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=Impurity
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Чистота
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нечистота.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=примесь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=загрязнение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грязь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зловоние.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вонь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=смрад.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зачистка.n
+}}
+|LinkEnglish=Impurity
+|Applicability=Russian
+}}

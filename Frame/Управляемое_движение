@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Controlled motion
+|Family=Cхемы движения, 
+|Type=Composed
+|Status=in development
+|Entered by=Kristina
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Движение по пути
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=управление
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Controlled motion
+|Applicability=Russian
+}}

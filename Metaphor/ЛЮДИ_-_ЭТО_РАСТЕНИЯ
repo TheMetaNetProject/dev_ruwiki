@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ЛЮДИ - ЭТО РАСТЕНИЯ
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Social Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Plants
+|Target frame=Person
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=SOCIAL ORGANIZATIONS ARE PLANTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text="Яблоневое дерево" хорошо растет в Санкт-Петербурге и дает хорошие плоды.
+|Example.Gloss=“The apple tree” grows well in St. Petersburg and bears good fruit
+|Example.English translation=“The apple tree” is growing well in St. Petersburg bearing good fruit
+|Example.Provenance=Yavlinsky's speech
+|Example.Comments=By "the appple tree" the members of the Russian democratic party “Yabloko” – “Apple” is meant.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Я не думаю, что олигархи сгнили, я думаю, они притворились наполовину мертвыми.
+|Example.Gloss=I don’t think the oligarchs have become rotten, I think they just pretend they are half-dead 
+|Example.English translation=I don’t think the oligarchs have become rotten, I think they just pretend to be half-dead 
+|Example.Provenance=Putin's speech
+}}
+|Entered by=Inna
+|Status=in development
+|Investigated for=Russian
+}}

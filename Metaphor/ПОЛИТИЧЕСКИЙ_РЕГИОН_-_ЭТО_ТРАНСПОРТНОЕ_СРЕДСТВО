@@ -1,0 +1,40 @@
+{{Metaphor
+|Name gloss=POLITICAL REGION - IS  VEHICLE 
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POLITICAL REGION IS A VEHICLE 
+}}
+|Family=Метафоры управления, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=транспортное средство
+|Target frame=политический регион
+|Mappings={{Mapping
+|Target=орган власти (governing_institution)
+|Source=транспортное средство
+}}{{Mapping
+|Target=население
+|Source=путешественник 
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ПРАВИТЕЛЬСТВО - ЭТО ВОДИТЕЛЬ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Государственный корабль движется в направлении айсберга.
+|Example.Gloss=State's ship moves in direction iceberg.
+|Example.English translation=Ship of state is moving in the direction of the iceberg.
+|Example.Provenance=http://kprf.ru/dep/110117.html
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Янукович спас государственный корабль от катастрофы.
+|Example.Gloss=Yanukovych saved state's ship from disaster.
+|Example.English translation=Yanukovych has saved the ship of state from disaster.
+|Example.Provenance=ukrnews24.com/yanukovich-spas-gosudarst
+}}
+|Entered by=Kristina
+|Status=in development
+|LinkEnglish=POLITICAL REGION IS A VEHICLE 
+|Investigated for=Russian
+}}

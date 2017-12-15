@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=Politics
+|Family=Схемы политиков, Схемы политики, Cхемы Управления,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Last reviewed by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=политика.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=политический.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=полотик.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=политикан.n
+}}
+|LinkEnglish=Politics
+|Applicability=Russian
+}}

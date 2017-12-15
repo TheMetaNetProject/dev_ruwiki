@@ -1,0 +1,69 @@
+{{Frame
+|Name gloss=Machine
+|Status=in development
+|Entered by=Patricia
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Физические строение
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Контроль
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=машина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=механизм.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=аппарат.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=станок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=устройство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=приспособления.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=срабатывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=шестерёнка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=шестерня.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сломаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разбирать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ремонт.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ремонтировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=винт.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кривошипно-шатунный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=двигатель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мотор.n
+}}
+|LinkEnglish=Machine
+|Applicability=Russian
+}}

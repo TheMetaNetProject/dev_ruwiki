@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=The_Rich
+|Family=Cхемы Богатые
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богачи.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сверхбогачи.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богач.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капиталист.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=олигарх.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=элита.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зажиточный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=элитарность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатые.a люди.n
+}}
+|LinkEnglish=The Rich
+|Applicability=Russian
+}}

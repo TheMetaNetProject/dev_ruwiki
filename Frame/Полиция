@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=Police
+|FrameNet frame=Law_enforcement_agency
+|Family=Cхемы Управления,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Сценарий работы
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=полицейский.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=полисмен.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=полиция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=патруль.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=полицейские.a силы.n
+}}
+|LinkEnglish=Police
+|Applicability=Russian
+}}

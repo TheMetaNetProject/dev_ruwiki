@@ -1,0 +1,38 @@
+{{Metaphor
+|Name gloss=CONTROL - IS UP
+|Name transcription=KONTROL – ETO VVERKHU
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL IS UP
+}}
+|Tags=ориентационная
+|Family=Russian primary metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Вертикальность
+|Target frame=Контроль
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=КОНТРОЛЬ - ЭТО ВЕРТИКАЛЬНОСТЬ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Мужчина убежден, что стоять на вершине ситуации - необходимое условие для выживания.
+|Example.Gloss=Man believes, that standing on top situation - necessary condition for survival.
+|Example.Transcription=Muzhchina ubezhden, chto stoyat na vershine situatsii - neobkhodimoye usloviye dlya vyzhivaniya.
+|Example.English translation=Man believes that being on top of the situation is a necessary condition for survival.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Владимир Путин на вершине своей власти.
+|Example.Gloss=Vladimir Putin at top his power.
+|Example.Transcription=Vladimir Putin na vershine svoyey vlasti.
+|Example.English translation=Vladimir Putin is at the height of his power.
+|Example.Provenance=www.chayka.org/node/286 - United States
+}}
+|Entered by=Kristina,
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=CONTROL IS UP
+|Investigated for=Russian
+}}

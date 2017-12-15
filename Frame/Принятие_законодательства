@@ -1,0 +1,54 @@
+{{Frame
+|Name gloss=Legislation enactment
+|Family=Cхемы Управления, Схемы законодательства, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=законопроект
+|Role.Name gloss=bill
+|Role.Definition=предложенный законопроект
+}}{{Role
+|Role.Name=законодатели
+|Role.Name gloss=legislators 
+}}{{Role
+|Role.Name=Процесс_принятия
+|Role.Name gloss=enactment_process 
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Акт законодательной власти
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Действие законодательства
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Разработка законодательства
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=голосование
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=законопроект.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=законодательство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=голосование.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Законодательный.a акт.n 
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разрешение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=повестка.n
+}}
+|LinkEnglish=Legislation enactment
+|Applicability=Russian
+}}

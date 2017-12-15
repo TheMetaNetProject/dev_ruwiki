@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=Change of_state
+|Family=Схемы Богатство,Схемы Бедность ,Схемы Бедность, Схемы Доступ к Образованию, Схемы связанные со свойством
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Patricia,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выходить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выход.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вступать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вводить.v
+}}
+|LinkEnglish=Change of state
+}}

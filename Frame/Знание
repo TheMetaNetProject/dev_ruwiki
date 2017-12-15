@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=Knowledge
+|Family=Схемы Образование, Схемы Доступ к Образованию, 
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=знание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=знания.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=знать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=узнавать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=учиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=учить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=узнавать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=изучать.v
+}}
+|LinkEnglish=Knowledge
+}}

@@ -1,0 +1,37 @@
+{{Metaphor
+|Name gloss=ATTRIBUTES - ARE POSSESSIONS
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ATTRIBUTES ARE POSSESSIONS
+|Metaphor.Alias.Provenance=Grady 1998
+}}
+|Family=Метафора структуры события,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Владение
+|Target frame=атрибуты
+|Mappings={{Mapping
+|Target=существо
+|Source=владетель
+}}{{Mapping
+|Target=атрибуты
+|Source=владения
+}}
+|Related metaphors={{Related metaphor}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Он имеет красивый внешний вид.
+|Example.Gloss=He has beautiful external form.
+|Example.English translation=He has a beautiful appearance.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Он имеет красивый, теплый звук.
+|Example.Gloss=It has beautiful, warm sound.
+|Example.English translation=It has a beautiful, warm sound.
+|Example.Provenance=ru.yamaha.com/ru/products/.../ac-violas/
+}}
+|Entered by=Kristina,
+|Status=in development
+|LinkEnglish=ATTRIBUTES ARE POSSESSIONS
+|Investigated for=Russian
+}}

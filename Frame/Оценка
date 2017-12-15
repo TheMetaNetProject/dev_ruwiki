@@ -1,0 +1,54 @@
+{{Frame
+|Name gloss=Evaluation
+|FrameNet frame=Assessing
+|Family=Схемы оценки
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles={{Role
+|Role.Name=оценщик
+|Role.Name gloss=Evaluator
+|Role.Definition=(Человек), который делает оценку
+|Role.FrameNet role=Judge 
+}}{{Role
+|Role.Name=оцениваемый
+|Role.Name gloss=evaluee 
+|Role.Definition=(человек), который оценивается
+|Role.FrameNet role=Evaluee 
+}}{{Role
+|Role.Name=поведение
+|Role.Name gloss=Behavior
+|Role.Definition=параметр, который оценивается
+}}{{Role
+|Role.Name=стандарт
+|Role.Name gloss=standard 
+}}{{Role
+|Role.Name=оценка
+|Role.Name gloss=Evaluation
+|Role.Definition=как поведение сравнивается со стандартом
+}}
+|Related frames=
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=Для того, чтобы иметь возможность оценить поведение оцениваемого, оценщик должен иметь возможность знать, что оцениваемый делает.
+|Inference.Type=предпосылка
+}}
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оценивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оценить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оценщик.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оцениваемый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оценка.n
+}}
+|LinkEnglish=Evaluation
+|Applicability=Russian
+}}

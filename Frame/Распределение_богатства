@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Wealth distribution
+|Family=Схемы Богатство, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Деньги
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=Распределение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=богатство.n
+}}
+|LinkEnglish=Wealth distribution
+|Applicability=Russian
+}}

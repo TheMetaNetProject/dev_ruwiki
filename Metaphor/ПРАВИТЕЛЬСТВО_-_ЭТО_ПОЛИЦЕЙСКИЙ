@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=GOVERNMENT - IS A_POLICEMAN
+|Aliases=
+|Family=Метафоры правительственных функций, Метафоры управления, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Полиция
+|Target frame=Правительство
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ПРАВИТЕЛЬСТВО - ЭТО ОСОБА
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text= В цивилизованном обществе запрещено использование силы в человеческих отношениях; в нем правительство, как полицейский, может использовать силу только для ответного удара и только против тех, кто использовал силу первым. 
+|Example.Gloss=In civilized society is_forbidden use of_force in human affairs, in it government, as police_officer may use force only for retaliatory strike and only against those, who used force first.
+|Example.English translation=In a civilized society it is forbidden to use force in human affairs; in such societies it is the government, which, as a police officer, may use force only for retaliation and only against those who started to use the force.
+|Example.Provenance=http://marsexxx.com/ycnex/rand-morality_of_individualism.htm
+}}
+|Entered by=Kristina, 
+|Status=in development
+|LinkEnglish=GOVERNMENT IS A POLICEMAN
+|Investigated for=Russian
+}}

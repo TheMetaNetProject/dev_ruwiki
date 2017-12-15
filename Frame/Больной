@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=Patient
+|Entered by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заражённый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=хворый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нездоровый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инфицированный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заражённый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=больной.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=больной.a
+}}
+|Applicability=Russian
+}}

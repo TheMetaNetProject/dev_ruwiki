@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=ADDRESSING SOCIAL PROBLEMS - IS TREATING AN_ILLNESS
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Лечение болезни
+|Target frame=Решение социальных проблем 
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=СОЦИАЛЬНЫЕ ПРОБЛЕМЫ - ЭТО БОЛЕЗНИ
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=РЕШЕНИЕ СОЦИАЛЬНЫХ ПРОБЛЕМ - ЭТО ДИАГНОСТИКА СТРАДАНИЯ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=бедность – это болезнь, которую должно лечить общество 
+|Example.Gloss=poverty - is disease, that must cure society
+|Example.English translation=poverty is a disease that must be treated by society
+|Example.Provenance=http://nashe.orbita.co.il/blogs/economy/41442
+}}
+|Entered by=Kristina, 
+|Status=in development
+|LinkEnglish=ADDRESSING SOCIAL PROBLEMS IS TREATING AN ILLNESS 
+|Investigated for=Russian
+}}

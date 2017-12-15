@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=Shepherd
+|Entered by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пастух.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=овца.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=стадо.n
+}}
+|Applicability=Russian
+}}

@@ -1,0 +1,50 @@
+{{Metaphor
+|Name gloss=GOVERNMENT - IS PERSON
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT IS A PERSON
+}}
+|Family=Метафоры управления
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=особа
+|Target frame=правительство
+|Mappings=
+|Related metaphors={{Related metaphor}}
+|Entailments={{Entailment}}
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Правительство беспокоится о нашем благополучии
+|Example.Gloss=Government worried about our well-being.
+|Example.English translation=The government is worried about our well-being
+|Example.Provenance=anek.coolreferat.com/22904 - Russia
+}}{{Example
+|Example.Language=Russian
+|Example.Text=правительство боится открытой бюджетной дискуссии.
+|Example.Gloss=Government fers open budget debate.
+|Example.English translation=Government is afraid of the open budget debate.
+|Example.Provenance=http://censor.net.ua/news/218410/pravitelstvo_boitsya_byudjetnoyi_diskussii_poskolku_byudjet_na_2012_god_nedovypolnyaetsya_tomenko
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Правительство боится признать, что идёт не туда!
+|Example.Gloss=Government fears admit, that going not there!
+|Example.English translation=The government is afraid to admit that it is going nowhere!
+|Example.Provenance=www.oboz.by/articles/economics/1071/
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Правительство любит цифры, а не людей.
+|Example.Gloss=Government loves numbers, but not people!
+|Example.English translation=
+Government loves numbers, not people!
+|Example.Provenance=www.stolitsa.ee/news?41343
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Правительство любит тебя!
+|Example.Gloss=Government loves you!
+|Example.English translation=Government loves you!
+|Example.Provenance=demotivators.to/.../pravitelstvo-lyubit-tebya
+|Example.Comments=source subcase: ПРАВИТЕЛЬСТВО - ЭТО РОДИТЕЛЬ 
+}}
+|Entered by=Kristina
+|Status=in development
+|Investigated for=Russian
+}}

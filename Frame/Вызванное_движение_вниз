@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=Caused motion downward
+|Family=Cхемы движения,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Вызванное изменение местонахождения
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Движение вниз
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ввергать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отбрасывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сокращать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сократить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=свалить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=свалиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бросать.v
+}}
+|LinkEnglish=Caused Downward Motion
+}}

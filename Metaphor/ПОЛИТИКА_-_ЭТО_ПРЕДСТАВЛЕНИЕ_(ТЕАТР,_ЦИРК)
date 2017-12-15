@@ -1,0 +1,37 @@
+{{Metaphor
+|Name gloss=POLITICS IS A PERFORMANCE (THEATER, CIRCUS)
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ПОЛИТИКА - ЭТО ПРЕДСТАВЛЕНИЕ (ТЕАТР, ЦИРК)
+|Metaphor.Alias.Provenance=A.P. Chudinov
+}}
+|Family=Social Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=ПРЕДСТАВЛЕНИЕ (ТЕАТР, ЦИРК)
+|Target frame=ПОЛИТИКА
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Наша политика - это цирк, но это не значит, что все должны быть клоунами.
+|Example.Gloss=Our politics is circus, but it not mean that everybody should be clowns
+|Example.English translation=Our politics is a circus, but it doesn't mean everybody should be clowns. 
+|Example.Provenance=Yavlinskij - leader of "Yabloko" party
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Кремль - это единственный дирижер Государственной Думы.
+|Example.Gloss=Kremlin is only conductor of State Duma. 
+|Example.English translation=Kremlin is the only conductor of the State Duma 
+|Example.Provenance=G. Zyuganov - Communist Party leader
+}}{{Example
+|Example.Language=Russian
+|Example.Text=В первой части этой политической драмы окрружению Путина удалось получить все ключевые должности, а во второй части они вдруг начали убеждать нас, что все было справедливо 
+|Example.Gloss=In first part of this political dramaentourage of Putin  managed to get al key positions, and in second one they suddenly started to persuade us that everything was fair.
+|Example.English translation=In the first part of this political drama Putin’s entourage managed to get all the key positions, and in the second one they suddenly started to persuade us everything was fair.
+|Example.Provenance=G. Zyuganov - Communist Party leader
+}}
+|Entered by=Inna, 
+|Status=in development
+|Investigated for=Russian
+}}

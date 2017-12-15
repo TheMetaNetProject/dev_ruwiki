@@ -1,0 +1,23 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_of_T-noun
+|Comments=N of N constructions: Пропасть=пропасть=Ncfsnn=0 нищеты=нищета=Ncfsgn=1
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, "^N") .
+    FILTER regex(?tpos, "^N&#91;a-z&#93;+g(n&#124;y)$") .
+    ?target (doc:spmod&#124;doc:qamod&#124;doc:dobj) ?source .
+}
+}}

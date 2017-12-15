@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Being low on a_scale
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Шкала
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=низкий.adj
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=черта.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грань.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=порог.n
+}}
+|LinkEnglish=Being low on a scale
+}}

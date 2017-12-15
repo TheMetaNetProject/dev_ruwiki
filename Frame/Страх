@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=Fear
+|Family=Схемы эмоций
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=боязнь.n 
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ужас.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=смятение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=испуг.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=страх.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пугать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бояться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=страшиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пугаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ужасный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=испуганный.a
+}}
+|Applicability=Russian
+}}

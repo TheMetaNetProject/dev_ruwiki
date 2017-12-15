@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=Bureaucracy
+|Family=Схемы бюрократии, Cхемы Управления,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=учреждение_операции
+|Role.Name gloss=institution_of_operation
+}}{{Role
+|Role.Name=члены
+|Role.Name gloss=members
+}}{{Role
+|Role.Name=функции
+|Role.Name gloss=functions
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Законодательный акт
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бюрократия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бюрократ.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=администрация.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чиновник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=государственная служба.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бюрократический.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=госслужащий.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=государственный гражданский служащий.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=государственный гражданский чиновник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=чинуша.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бюрократически-административной.a
+}}
+|LinkEnglish=Bureaucracy
+|Applicability=Russian
+}}

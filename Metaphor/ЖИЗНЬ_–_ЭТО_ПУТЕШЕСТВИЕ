@@ -1,0 +1,56 @@
+{{Metaphor
+|Name gloss=LIFE – IS JOURNEY
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LIFE IS A JOURNEY
+}}
+|Family=ЛЮБОВЬ ЭТО ПУТЕШЕСТВИЕ Каскад (LIFE/LOVE IS A JOURNEY Cascade)
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Experiential basis=ДВИЖЕНИЕ
+|Source frame=Путешествие
+|Target frame=Жизнь
+|Mappings={{Mapping}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО ДВИЖЕНИЕ ПО ПУТИ
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ДЕЙСТВИЕ - ЭТО САМОХОДНOЕ ДВИЖЕНИЕ ПО ПУТИ
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ЖИЗНЬ ЭТО ПОСЛЕДОВАТЕЛЬНОСТЬ ДВИЖЕНИЙ
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ВИРТУАЛЬНОЕ ДВИЖЕНИЕ – ЭТО ДЕЙСТВИТЕЛЬНОЕ ДВИЖЕНИE
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ЦЕЛЕУСТРЕМЛЕНОЕ ДЕЙСТВИЕ – ЭТО САМОХОДНОЕ ДВИЖЕНИЕ К МЕСТУ НАЗНАЧЕНИЯ
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=РОМАНТИЧНОЕ ОТНОШЕНИЕ – ЭТО ПУТЕШЕСТВИЕ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Его Божественное слово, которое очерчивает, указывает нам путь жизни;
+|Example.Gloss=His divine word, which delineates, shows us path life;
+|Example.English translation=His divine word, which delineates all, shows us the path of life;
+|Example.Provenance=ruscorpora.ru/
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Путь жизни Чеснокова сопряжен с внешне неожиданными перегибами, бифуркациями.
+|Example.Gloss=Path life Chesnokov associated with external unexpected bends, bifurcations.
+|Example.English translation=Chesnokov's path of life is associated with unexpected bends, bifurcations.
+|Example.Provenance=ruscorpora.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Как говорится у любимого писателя Коркунова Пауло Коэльо, если цель в жизни выбрана верно, то на пути к ней будет встречаться много подсказок, знаков и людей, которые помогут ее осуществить.
+|Example.Gloss=As stated in favorite writer Korkunova Paulo Coelho, if destination in life chosen correctly, then in way to her will meet lot hints, signs and people, which help her realize.
+|Example.English translation=As stated by favorite Korkunov's writer, Paulo Coelho, if the purpose of life is chosen correctly, then along the way to the destination one will meet a lot of hints, signs and people which will help carry it out.
+|Example.Provenance=ruscorpora.ru
+}}
+|Entered by=Kristina,
+|Status=in development
+|LinkEnglish=LIFE IS A JOURNEY
+|Investigated for=Russian
+}}

@@ -1,0 +1,75 @@
+{{Frame
+|Name gloss=Restraint
+|Family=Cхемы Bлияющие на Движение, Схемы препятствия и обеспечения
+|Entered by=Patricia
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Объекты влияющие на движение
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ловушка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кольцо.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оковы.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сеть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=узы.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=путы.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кандалы.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=цепь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капкан.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наручники.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=предотвращать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сдерживать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выбиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=западня.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=трап.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тенёта.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=улавливатель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мышеловка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=самолов.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подвох.n
+}}
+|LinkEnglish=Restraints
+|Applicability=Russian
+}}

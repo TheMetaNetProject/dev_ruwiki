@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=Making decisions by_Government
+|Family=Cхемы Управления, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Действие управления
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Целеустремленное действие
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Оценка
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Оценка правительства гражданами
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=принятие.n решений.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=решение.n
+}}
+|LinkEnglish=Government decision making
+|Applicability=Russian
+}}

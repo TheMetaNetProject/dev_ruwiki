@@ -1,0 +1,42 @@
+{{Frame
+|Name gloss=Barrier
+|FrameNet frame=Having_or_lacking_access
+|Family=Схемы препятствия и обеспечения
+|Type=Frame
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Движение по пути
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=барьер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=перегораживать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=препятствовать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= препятствие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= преграда.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=препона.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заграждение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=помеха.n
+}}
+|LinkEnglish=Barrier
+|Applicability=Russian
+}}

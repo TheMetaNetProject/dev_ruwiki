@@ -1,0 +1,37 @@
+{{Metaphor
+|Name gloss=MONEY IS A LIQUID
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ДЕНЬГИ - ЭТО ЖИДКОСТЬ
+|Metaphor.Alias.Provenance=Inna
+}}
+|Family=Object Event Structure Metaphor, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Жидкость
+|Target frame=Деньги
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Вроде бы, будто на днях вы получили зарплату. Вы уверены, что не приобретали никаких дорогих вещей. А деньги, куда-то испарились
+|Example.Gloss=I sort of received  my salary the other day. I'm sure i didn't buy any expensive things. But money evaporated somewhere!
+|Example.English translation=I sort of received  my salary the other day. I'm sure i didn't buy anything expensive. But my money have evaporated somewhere!
+|Example.Provenance=progyouth.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=По старым трубам бюджетные деньги утекают, как вода в песок
+|Example.Gloss=Into old pipes budget money flows away like water in sand
+|Example.English translation=Public money is flowing away into the old pipes like water into the sand
+|Example.Provenance=http://www.ogoniok.com
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Деньги просачиваются чуть-чуть и достаются тем, кто эту буржуазию кормит, поит и веселит
+|Example.Gloss=Money leak slightly and accrue to those who this bourgeoisie feeds, waters and tickles.
+|Example.English translation=Money is leaking little by little to those, who feeds, waters and tickles the bourgeoisie. 
+|Example.Provenance=http://www.ogoniok.com
+}}
+|Entered by=Inna, 
+|Status=in development
+|Investigated for=Russian
+}}

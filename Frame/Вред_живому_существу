@@ -1,0 +1,72 @@
+{{Frame
+|Name gloss=Harm to_living entity
+|Family=Вред, Вред живому существу
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Физический вред
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мучить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вредить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=калечить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=повредить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ударить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=давить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=давление.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=угнетать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=удар.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подавить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вредный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вред.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нездоровый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вредоносный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=губительный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=губить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=болезнетворный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пагубный.a
+}}
+|LinkEnglish=Harm to living entity
+}}

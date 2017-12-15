@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Danger
+|Status=in development
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=спасать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=избегать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=опасаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=опасность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=угроза.n
+}}
+|LinkEnglish=Danger
+|Applicability=Russian
+}}

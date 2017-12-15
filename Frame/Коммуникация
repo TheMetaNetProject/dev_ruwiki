@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=Communication
+|FrameNet frame=Communication
+|Family=Схемы коммуникации
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=коммуникация.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=общение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сообщение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сообщить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сообщать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сообщаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сказать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=информировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=известить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=извещать.v
+}}
+|LinkEnglish=Communication
+|Applicability=Russian
+}}

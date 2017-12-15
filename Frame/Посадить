@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=Planting
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сеять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=посеять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=прозябать.v
+}}
+|Applicability=Russian
+}}

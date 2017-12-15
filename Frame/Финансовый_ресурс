@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Financial resource
+|Family=Схемы Богатство и Социальный Класс, Экономические схемы, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles={{Role
+|Role.Name gloss=resource
+}}{{Role
+|Role.Name gloss=type
+}}{{Role
+|Role.Name gloss=amount
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ресурс
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Денежная оценка
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Financial resource
+|Applicability=Russian
+}}

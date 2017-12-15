@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=Geographic void
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=яма.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пропасть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=глубокый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=край.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грань.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бездна.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ад.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=порог.n
+}}
+|Applicability=Russian
+}}

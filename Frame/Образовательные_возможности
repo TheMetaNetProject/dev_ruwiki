@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Educational opportunities
+|Family=Схемы Доступ к Образованию, 
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Возможность
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Образование
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Educational opportunities
+}}

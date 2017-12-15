@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=Equality
+|Comments=Entered per the request after the April 2014 site visit.
+It is based on the 7 concepts submitted by us to IARPA in January 2014.
+The other 6 are Freedom, Equality, Democratic_institutions, Representation_and_decision-making, Organization_of_power,
+
+Equality comes down to all members of a group or society having access to the same resources, without some members being valued less than others (Plato: ‘Friends have all things in common.’). In an equal society, citizens receive equal treatment in the eyes of the law. The parameters according to which equality is determined may vary.
+The venue in which citizens are treated equally are varied as well: they may have an equal right to vote (universal suffrage); equal right to opportunity (education, medical care).
+Equality is linked to freedom. Equality yields freedom in all areas, so there is a causal relationship between recognition of equal status (in whatever domain) and freedom (to expression, to resources) in that domain, and in general.
+|Family=Схемы Демократии
+|Type=Frame
+|Status=in development
+|Entered by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=равноправие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=равенство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=паритетность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=равный.a
+}}
+|LinkEnglish=Equality
+|Applicability=Russian
+}}

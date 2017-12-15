@@ -1,0 +1,30 @@
+{{Frame
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=физические страдания
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лекарство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лечить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=успокоить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=улучшать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=облегчить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выписывать.v
+}}
+}}

@@ -1,0 +1,66 @@
+{{Frame
+|Name gloss=Crime
+|FrameNet frame=Committing_crime
+|Family=Вред, Вред живому существу,Cхемы Управления
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=преступник
+|Role.Name gloss=criminal
+|Role.Type=особа
+|Role.FrameNet role=Perpetrator
+}}{{Role
+|Role.Name=жертва
+|Role.Name gloss=Victim
+|Role.Type=особа
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Социальные проблемы
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=преступление.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=жертва.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=совершать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сотворить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=преступник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вор.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обирать.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нарушение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=виноватый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грабить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разбойничать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обкрадывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кража.n
+}}
+|LinkEnglish=Crime
+|Applicability=Russian
+}}

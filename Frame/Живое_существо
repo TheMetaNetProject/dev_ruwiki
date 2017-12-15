@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=Organism
+|Family=Cхемы сущности,
+|Type=Cog
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=живое.a существо.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=организм.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бытие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=существование.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=существовать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=развитие.n
+}}
+|LinkEnglish=Biological entity
+|Applicability=Russian
+}}

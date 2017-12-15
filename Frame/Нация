@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Nation
+|Family=Cхемы Управления,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=государство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=государственный.a
+}}
+|LinkEnglish=Nation
+|Applicability=Russian
+}}

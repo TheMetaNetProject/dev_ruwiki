@@ -1,0 +1,7 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-subj_cop_S-verb
+|CxnMPDescription=Copular construction: backup in case parse fails
+|Comments=бедность=бедность=Ncfsnn=5 -=-=-=6 это=это=P--nsnn=7 болезнь=болезнь=Ncfsnn=8
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=N&#91;^=&#93;+=(?P<tidx>\d+) (?:-=-=-=\d+ )?это=это=P&#91;^=&#93;+=\d+ &#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=N&#91;^=&#93;+=(?P<sidx>\d+)\b
+}}

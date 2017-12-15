@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=Evil
+|Family=Схемы нравственности
+|Status=in development
+|Entered by=Patricia,
+|Roles={{Role
+|Role.Name=злое_существо
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зло.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=злой.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выродок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=погибший.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=развращённый.a
+}}
+|LinkEnglish=Evil
+|Applicability=Russian
+}}

@@ -1,0 +1,34 @@
+{{Metaphor
+|Name gloss=BEING IMPOVERISHED - IS BEING LOW ON A_SCALE
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=BEING IMPOVERISHED IS BEING LOW ON A SCALE
+}}
+|Tags=Program sources
+|Family=Метафоры Бедность
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=быть низко по шкале
+|Target frame=быть бедной
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=БЫТЬ В СОСТОЯНИИ - ЭТО БЫТЬ В ТОЧКЕ НА ШКАЛЕ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Сельхозкооператив оставил деревенских жителей за гранью нищеты.
+|Example.Gloss=Agricultural-cooperative left village residents below line of-poverty.
+|Example.English translation=Agricultural cooperative left the villagers below the poverty line.
+|Example.Provenance=svpressa.ru/society/article/39683/
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Природа низших классов стала темой жарких дебатов среди социологов.
+|Example.Gloss=Nature of-lower classes became subject of-heated debate among social-scientists.
+|Example.English translation=The nature of the lower classes has been the subject of heated debate among social scientists.
+|Example.Provenance=http://uchebnikionline.ru/soziologia/sotsiologiya_-_odens_entoni/robitnichiy_klas.htm
+}}
+|Entered by=Kristina,
+|Status=in development, auto imported
+|LinkEnglish=BEING IMPOVERISHED IS BEING LOW ON A SCALE
+}}

@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=Poverty
+|Family=Схемы Бедность
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=количество ресурсов
+|Role.Name gloss=amount of_resources
+}}{{Role
+|Role.Name=бедная сущность
+|Role.Name gloss=impoverished entity
+}}{{Role
+|Role.Name=Степень бедности
+|Role.Name gloss=degree of_poverty
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Экономическое положение
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Богатство
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Социальные проблемы
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бедность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=безработица.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=долг.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=голод.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=задолженность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=скудость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нищета.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=малоимущий.n
+}}
+|LinkEnglish=Poverty
+|Applicability=Russian
+}}

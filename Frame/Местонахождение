@@ -1,0 +1,85 @@
+{{Frame
+|Name gloss=Location
+|FrameNet frame=Locale
+|Family=Схемы местонахождения,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Entered by=Kristina,
+|Last reviewed by=Patricia,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=жить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=существовать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=проживать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подовить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вталкиваться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гнать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вступать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вводить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выходить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=выход.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=планка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=крайний.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=расположение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=местонахождение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=положение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=место.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=в.p
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=идти.v в.p
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=переходить.v в.p
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=прийти.v на.p
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=находиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=довести.v до.p
+}}
+|LinkEnglish=Location
+}}

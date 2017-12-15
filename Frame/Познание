@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=Cognizing
+|FrameNet frame=Cogitation
+|Family=Схемы познания
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Особа
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=познание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=размышление.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=размышлять.v
+}}
+|LinkEnglish=Cognizing 
+|Applicability=Russian
+}}

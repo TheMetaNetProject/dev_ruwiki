@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=CHANGE OF_STATE - IS CHANGE OF_LOCATION
+|Name transcription=IZMENENIYE SOSTOYANIYA - ETO IZMENENIYE MESTONAKHOZHDENIYA
+|Aliases={{Metaphor.Alias}}
+|Tags=Program sources
+|Family=Метафора структуры события, Метафора структуры события - локация, Метафоры Бедность,Метафоры Бедность ,Метафоры Богатство,Метафоры Доступ к образованию, Russian primary metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Источник  путь  цель
+|Target frame=Изменение состояния
+|Mappings={{Mapping
+|Target=существо
+|Source=траектор
+}}{{Mapping
+|Target=начальное_состояние
+|Source=Источник
+}}{{Mapping
+|Target=конечное_состояние
+|Source=цель
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=СОСТОЯНИЯ - ЭТО ЛОКАЦИИ
+}}
+|Entailments=
+|Examples=
+|Entered by=Kristina
+|Last reviewed by=Aleksandra
+|Status=in development, auto imported
+|LinkEnglish=CHANGE OF STATE IS CHANGE OF LOCATION
+}}

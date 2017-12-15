@@ -1,0 +1,70 @@
+{{Frame
+|Name gloss=Fierce animal
+|Family=Cхемы сущности
+|Type=Frame
+|Entered by=Patricia
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Животное
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кусать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=покусать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кусаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пасть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рычать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=когти.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=крокодил.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=лев.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=волк.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=клык.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=змея.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=загрызать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=загрызть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=загрызание.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=медведь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ротвейлер.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тигр.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=щупальца.n
+}}
+|LinkEnglish=Fierce animal
+|Applicability=Russian
+}}

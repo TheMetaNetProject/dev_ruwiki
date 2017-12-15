@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Unemployment
+|Family=Схемы Богатство и Социальный Класс, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Работа
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Социальные проблемы
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=безработица.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=безработные.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=безработный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=незанятый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=безработный.n
+}}
+|LinkEnglish=Unemployment
+|Applicability=Russian
+}}

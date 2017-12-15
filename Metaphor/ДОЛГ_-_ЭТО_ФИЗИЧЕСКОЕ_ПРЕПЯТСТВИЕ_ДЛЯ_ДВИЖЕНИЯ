@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=DEBT - IS PHYSICAL IMPEDIMENT TO MOTION
+|Aliases=
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Препятствия для движения
+|Target frame=Долг
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ТРУДНОСТИ - ЭТО ПРЕПЯТСТВИЯ ДЛЯ ДВИЖЕНИЯ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=если честно, то пока что только эта "задолженность" удерживает меня от перехода со следующего расчётного периода на бету.
+|Example.Gloss=if honestly, it just that only this "debt" keeps me from moving to the_next accounting period on beta
+|Example.English translation=honestly speaking, it is only this "debt" that keeps me from moving to the next accounting period on beta
+|Example.Provenance=http://forum.tis-dialog.ru/viewtopic.php?f=3&t=53961
+}}
+|Entered by=Kristina, 
+|Status=in development
+|LinkEnglish=DEBT IS PHYSICAL IMPEDIMENTS TO MOTION
+|Investigated for=Russian
+}}

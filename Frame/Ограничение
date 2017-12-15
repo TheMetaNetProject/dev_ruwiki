@@ -1,0 +1,93 @@
+{{Frame
+|Name gloss=Confinement
+|Family=Схемы препятствия и обеспечения, Cхемы Bлияющие на Движение
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Last reviewed by=Patricia,
+|Roles={{Role
+|Role.Name=ограниченная_сущность
+|Role.Name gloss=confined_entity
+}}{{Role
+|Role.Name=область_ограничения
+|Role.Name gloss=area_of_confinement
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ограничивать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ограничение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тюрьма.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=клетка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=избежать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=темница.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кутузка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=каталажка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=острог.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=каземат.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=узилище.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=спецтюрьма.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тюряга.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пенитенциарий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кичман.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=застенок.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бутырки.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бастилия.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заключение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=замкнутый_круг.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=свобода.n от.p
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=цепочка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=изолировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бежать.v от.p
+}}
+|LinkEnglish=Confinement
+|Applicability=Russian
+}}

@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=Morality
+|FrameNet frame=Morality_evaluation
+|Family=Cхемы нравственности,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Безнравственность
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мораль.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нравственность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=моральный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нравственный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грех.n
+}}
+|LinkEnglish=Morality
+}}

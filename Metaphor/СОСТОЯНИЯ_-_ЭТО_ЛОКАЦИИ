@@ -1,0 +1,56 @@
+{{Metaphor
+|Name gloss=STATES - ARE LOCATIONS
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=STATES ARE LOCATIONS
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=180
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=STATES ARE LOCATIONS
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=179
+}}
+|Family=Метафора структуры события,Метафора структуры события - локация, Russian primary metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=локация, интерьер
+|Target frame=состояние
+|Mappings={{Mapping
+|Target=состояние
+|Source=локация, интерьер
+}}{{Mapping
+|Target=изменение состояния
+|Source=движениe
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ИЗМЕНЕНИЕ СОСТОЯНИЯ - ЭТО ИЗМЕНЕНИЕ ЛОКАЦИИ
+}}{{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=ИСПЫТЫВАТЬ СОСТОЯНИЕ - ЭТО БЫТЬ В МЕСТОНАХОЖДЕНИИ
+}}
+|Entailments={{Entailment}}
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=В любви́ возмо́жны прия́тные моме́нты с испы́танными и надёжными партнёрами.
+|Example.Gloss=In love possible pleasant moments with proven and reliable partners.
+|Example.English translation=Pleasant moments are possible in love with proven and reliable partners.
+|Example.Provenance=http://search.ruscorpora.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Папа к тому времени был уже в глубокой депрессии.
+|Example.Gloss=Dad at the time was already in deep depression.
+|Example.English translation=Dad at the time was already in a deep depression.
+|Example.Provenance=http://search.ruscorpora.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Несмотря на то что рынок до сих пор не может выйти из депрессии, большинство его участников демонстрируют оптимизм.
+|Example.Gloss=Despite the fact that market untill these days can't come out of depression, many of participants show optimism.
+|Example.English translation=Despite the fact that the market is still not out of depression, most of the participants show optimism.
+|Example.Provenance=http://search.ruscorpora.ru
+}}
+|Entered by=Kristina,
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=STATES ARE LOCATIONS
+|Investigated for=Russian
+}}

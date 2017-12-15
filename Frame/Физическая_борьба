@@ -1,0 +1,49 @@
+{{Frame
+|Name gloss=Physical combat
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=борьба.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бой.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сражение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=драка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бороться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сражаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=драться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=биться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=угрожать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=герой.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=борец.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отвоевать.v
+}}
+|LinkEnglish=Physical combat
+|Applicability=Russian
+}}

@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=Institution
+|Family=Cхемы Управления, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Организация
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=учреждение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=институт.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заведение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ведомство.n
+}}
+|LinkEnglish=Institution
+|Applicability=Russian
+}}

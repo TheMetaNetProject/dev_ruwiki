@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=NORMAL STATE SOUL - IS NORMAL LOCATION SOUL
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NORMAL STATE OF THE SOUL IS NORMAL LOCATION OF THE SOUL
+}}
+|Family=Метафора структуры события - локация
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=локация
+|Target frame=состояние
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=СОСТОЯНИЯ - ЭТО ЛОКАЦИИ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Душа не на месте.
+|Example.Gloss=Soul not in place.
+|Example.English translation=The soul is not in place.
+}}
+|Entered by=Kristina,
+|Status=in development
+|Investigated for=Russian
+}}

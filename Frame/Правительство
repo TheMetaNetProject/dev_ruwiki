@@ -1,0 +1,71 @@
+{{Frame
+|Name gloss=Government
+|Family=Cхемы Управления, Cхемы правительства, Cхемы функции правительства
+|Type=Frame
+|Status=in development
+|Entered by=Kristina
+|Last reviewed by=Patricia, Kristina,
+|Roles={{Role
+|Role.Name=правитель
+|Role.Name gloss=governor
+|Role.FrameNet role=Leader
+}}{{Role
+|Role.Name=управляемый
+|Role.Name gloss=governed
+|Role.FrameNet role=Governed
+}}{{Role
+|Role.Name=действия_правительства
+|Role.Name gloss=governing_actions
+}}{{Role
+|Role.Name=правитель_цели
+|Role.Name gloss=governor_objectives
+}}{{Role
+|Role.Name=юрисдикция_область
+|Role.Name gloss=jurisdiction region
+}}{{Role
+|Role.Name=полномочия_правительства
+|Role.Name gloss=governing_powers
+}}{{Role
+|Role.Name=источник_полномочий
+|Role.Name gloss=source_of_powers
+}}{{Role
+|Role.Name=ограничения_надействия_правительства
+|Role.Name gloss=constraints_on_governing_actions
+}}{{Role
+|Role.Name=законность
+|Role.Name gloss=legitimacy
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=авторитет
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=политический регион
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Организация
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=правительство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=управлять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=госдума.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=президент.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=правительственный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=государство.n
+}}
+|LinkEnglish=Government
+|Applicability=Russian
+}}

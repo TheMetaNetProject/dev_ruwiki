@@ -1,0 +1,35 @@
+{{Metaphor
+|Name gloss=IMPEDIMENTS TO UTILIZING EDUCATIONAL OPPORTUNITIES - IS OBSTACLES TO ACCESSING LOCATION
+|Aliases=
+|Tags=Program sources
+|Family=Метафоры Доступ к образованию
+|Metaphor Level=Specific
+|Source frame=Препятствия для доступа местонахождения
+|Target frame=Препятствия к использованию образовательных возможностей
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ТРУДНОСТИ ДЛЯ ДЕЙСТВИЙ - ЭТО  ПРЕПЯТСТВИЯ ДЛЯ ДВИЖЕНИЯ
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ВОЗМОЖНОСТИ ЭТО МЕСТОНАХОЖДЕНИЯ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=«Онлайн-образование уничтожает все барьеры на пути того, кто хочет и способен учиться.»
+|Example.Gloss=Online education destroys all barriers on way thatm who wants and able learn
+|Example.English translation=Online education eliminates all barriers on the path of those who are willing and able to learn.
+|Example.Provenance=http://fakty.ua/157687-viktor-pinchuk-onlajn-obrazovanie-unichtozhaet-vse-barery-na-puti-togo-kto-hochet-i-sposoben-uchitsya
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Как преодолеть барьеры на пути инклюзивного образования для инвалидов.
+|Example.Gloss=How overcome barriers on way inclusive education for disabled.
+|Example.English translation=How to overcome the barriers to inclusive education for the disabled.
+|Example.Provenance=inva-center.com/content/articles/682/
+}}
+|Entered by=Kristina
+|Last reviewed by=Kristina
+|Status=in development, auto imported
+|LinkEnglish=IMPEDIMENTS TO UTILIZING EDUCATIONAL OPPORTUNITIES IS OBSTACLES TO ACCESSING A LOCATION
+}}

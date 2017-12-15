@@ -1,0 +1,35 @@
+{{Metaphor
+|Name gloss=CONTROL - IS VERTICALITY
+|Name transcription=KONTROL - ETO VERTIKALNOST
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL IS VERTICALITY
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL IS UP
+}}
+|Family=Russian primary metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Вертикальность
+|Target frame=Контроль
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Having control over someone
+|Entailment.Source inference=High point on a vertical scale
+|Entailment.Type=скалярная
+|Entailment.Entailed metaphors=КОНТРОЛЬ – ЭТО ВВЕРХУ
+}}{{Entailment
+|Entailment.Target entailment=Being controlled by someone
+|Entailment.Source inference=Low point on a vertical scale
+|Entailment.Type=скалярная
+|Entailment.Entailed metaphors=ПОДЧИНЕНИЕ - ЭТО ВНИЗУ
+}}
+|Examples={{Example
+|Example.Language=Russian
+}}
+|Entered by=Kristina
+|Last reviewed by=Aleksandra
+|Status=in development
+|LinkEnglish=CONTROL IS VERTICALITY
+|Investigated for=Russian
+}}

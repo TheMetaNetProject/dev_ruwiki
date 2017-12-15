@@ -1,0 +1,18 @@
+{{Frame
+|Name gloss=Emotion
+|FrameNet frame=Experiencer_obj
+|Family=Схемы эмоций
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=эмоция.n
+}}
+|LinkEnglish=Emotion
+|Applicability=Russian
+}}

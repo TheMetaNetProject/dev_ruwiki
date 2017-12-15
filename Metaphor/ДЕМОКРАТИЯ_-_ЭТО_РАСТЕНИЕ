@@ -1,0 +1,47 @@
+{{Metaphor
+|Name gloss=DEMOCRACY IS A PLANT
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ДЕМОКРАТИЯ - ЭТО РАСТЕНИЕ
+|Metaphor.Alias.Provenance=P.V. Kropotukhina
+}}
+|Family=Social Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Растение
+|Target frame=Демокатия
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Name=PEOPLE ARE PLANTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Демократия с евролицом у нас почему-то не прорастает.
+|Example.Gloss=Democracy with Euroface at us somehow doesn't sprout.
+|Example.English translation=Democracy with the European face somehiow doesn't sprout in our country.
+|Example.Provenance=V. Kostokov "Arguments and Facts",  2010, № 35
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Зреет ли в России настоящая демократия?
+|Example.Gloss=Ripen not in Russia real democracy?
+|Example.English translation=Is the real democracy ripening in Russia?
+|Example.Provenance=Newsland.ru. 05/08/2010
+}}{{Example
+|Example.Language=Russian
+|Example.Text="Революция роз" увяла на морозе.
+|Example.Gloss="Revolution of roses" withered in the frost.
+|Example.English translation="The Rose Revolution" has withered in the cold.
+|Example.Provenance=A. Gabuev "Kommersant"
+|Example.Comments=By the Rose Revolution as well as the Orange Revolution we mean democratic revolutions in former USSR countries.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Опыт показывает, что под контолем тоталитарной власти может вырасти только фиговый демокатический листок.
+|Example.Gloss=Experience shows that under control of totalitarian power can grow only a fig democratic leaf.
+|Example.English translation=Our past experience shows that only a fig leaf of democracy can grow up under the totalitarian regime.
+|Example.Provenance=www.futurisrael.org/Authors/Borovsky_Dem.html
+|Example.Comments="fig" in Russian can mean both "a fig tree" and "smth bad"- фиговое
+}}
+|Entered by=Inna,
+|Status=in development
+|Investigated for=Russian
+}}

@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=BEING UNEDUCATED - IS BEING LOW ON A_SCALE
+|Aliases=
+|Tags=Program sources
+|Family=Метафоры Образование
+|Metaphor Level=Specific
+|Source frame=быть низко по шкале
+|Target frame=быть необразованным
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=БЫТЬ В СОСТОЯНИИ - ЭТО БЫТЬ В ТОЧКЕ НА ШКАЛЕ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Низкое образование как фактор риска смерти от рака.
+|Example.Gloss=Low education as a_factor risk for_death from_cancer
+|Example.English translation=Low education as a risk factor for death from cancer
+|Example.Provenance=www.oncc.ru/nizkoe-obrazovanie-kak-faktor-riska-sm
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Миграционная служба при правительстве Таджикистана обеспокоена низким уровнем образования молодого поколения республики.
+|Example.Gloss=Migration Service under the_Government of_Tajikistan is_concerned about_low level of_education of_the_young generation of_the_country.
+|Example.English translation=Migration Service under the Government of Tajikistan is concerned about low education level of the young generation of the country.
+|Example.Provenance=news.tj/.../migratsionnaya-sluzhba-tadzhikistana-obesp
+}}
+|Entered by=Metabot,
+|Last reviewed by=Kristina
+|Status=in development, auto imported
+}}

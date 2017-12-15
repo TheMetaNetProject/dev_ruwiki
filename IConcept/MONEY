@@ -1,0 +1,17 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Деньги
+}}{{Linked frame
+|Frame name=Финансы
+}}{{Linked frame
+|Frame name=Финансовый ресурс
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}

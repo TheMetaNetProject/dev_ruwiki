@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=Constructed Confinement
+|Family=Схемы препятствия и обеспечения
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сети.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=удавка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=болото.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ловушка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оковы.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тюрьма.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=клетка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=стена.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=трясина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=избежать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=цепочка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кольцо.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поставленный.a в.p
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=освобождаться.v
+}}
+|LinkEnglish=Constructed Confinement
+|Applicability=Russian
+}}

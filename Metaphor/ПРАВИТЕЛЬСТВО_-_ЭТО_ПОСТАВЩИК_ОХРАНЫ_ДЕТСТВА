@@ -1,0 +1,61 @@
+{{Metaphor
+|Name gloss=GOVERNMENT - IS A_PROVIDERD OF_CHILD CARE 
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ПРАВИТЕЛЬСТВО - ЭТО НЯНЯ
+}}
+|Family=Метафоры управления, Метафоры правительственных функций
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Охрана детства
+|Target frame=Правительство
+|Mappings={{Mapping
+|Target=правитель
+|Source=Охрана_детства_поставщик
+}}{{Mapping
+|Target=управляемый
+|Source=ребенок
+}}{{Mapping
+|Target=действия_правительства
+|Source=Охрана_детства_обязанности
+}}{{Mapping
+|Target=правитель_цели
+|Source=Охрана_детства_цели
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ПРАВИТЕЛЬСТВО - ЭТО ОСОБА
+}}{{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=ПРАВИТЕЛЬСТВО - ЭТО РОДИТЕЛЬ
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Government has control over what the citizens can or cannot do 
+|Entailment.Source inference=Childcare provider has control over what the children can or cannot do
+|Entailment.Type=контроль
+}}{{Entailment
+|Entailment.Target entailment= 	Government's responsibility is to ensure the health, safety and well-being of the citizens 
+|Entailment.Source inference=Childcare provider's duties are to ensure the health, safety, and well-being of the children. 
+|Entailment.Type=ответственность
+}}{{Entailment
+|Entailment.Target entailment=The citizens are not capable of taking care of themselves without the help of the government 
+|Entailment.Source inference=Children are not capable of taking care of themselves without the help of a childcare provider.
+|Entailment.Type=зависимость
+}}
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Сингапурцы ласково называют свое государство «няней».
+|Example.Gloss=Singaporeans affectionately call their government "nanny."
+|Example.English translation=Singaporeans affectionately call their government "nanny."
+|Example.Provenance=planeta.by/article/301‎
+}}{{Example
+|Example.Language=Russian
+|Example.Text=«Государство-нянька» — государство, взявшее на себя особо широкие социальные обязательства; метафора предполагает, что всевозможные социальные программы в конечном счете унизительны для человека. 
+|Example.Gloss="Nanny state" - state taken on itself extra wide social obligations; metaphor suggests, that various social programs in final score humiliating for man.
+|Example.English translation="Nanny state" - a state that has taken the extra wide social obligations; metaphor suggests that numerous social programs are in the long run humiliating for a man.
+|Example.Provenance=http://politike.ru/dictionary/884/word/-gosudarstvo-njanka
+}}
+|Entered by=Kristina, 
+|Status=in development
+|LinkEnglish=GOVERNMENT IS A CHILDCARE PROVIDER
+|Investigated for=Russian
+}}

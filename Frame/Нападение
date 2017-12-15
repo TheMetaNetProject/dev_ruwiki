@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=Attacking
+|Family=Вред, Вред живому существу,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=нападающий
+|Role.Name gloss=attacker
+}}{{Role
+|Role.Name=нападающие_действия
+|Role.Name gloss=attacking_action
+}}{{Role
+|Role.Name=атакованный
+|Role.Name gloss=attacked
+}}{{Role
+|Role.Name=причина_нападения
+|Role.Name gloss=reason_for_attack
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Физическая борьба
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ударить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грозить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=захватить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=атаковать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=нападать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=наступать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поражать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=угрожать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пригрозить.v
+}}
+|LinkEnglish=Attacking
+|Applicability=Russian
+}}

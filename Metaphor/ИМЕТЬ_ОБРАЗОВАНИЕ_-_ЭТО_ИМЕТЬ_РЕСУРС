@@ -1,0 +1,20 @@
+{{Metaphor
+|Name gloss=HAVE AN_EDUCATION - IS HAVE A_RESOURCE
+|Aliases=
+|Tags=Program sources
+|Family=Метафоры Доступ к образованию
+|Metaphor Level=Specific
+|Source frame=Ресурс
+|Target frame=Образование
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ИМЕТЬ ЗНАНИЯ - ЭТО ИМЕТЬ ОБЪЕКТ
+}}
+|Entailments=
+|Examples=
+|Entered by=Metabot,
+|Last reviewed by=Kristina
+|Status=in development, auto imported
+|LinkEnglish=HAVE AN EDUCATION IS HAVE A RESOURCE
+}}

@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=Pest
+|Family=Схемы болезни
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Физический вред
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вредитель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=язва.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кишеть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=термит.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=таракан.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=червь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сухая.a гниль.n
+}}
+|LinkEnglish=Pest
+|Applicability=Russian
+}}

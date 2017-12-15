@@ -1,0 +1,74 @@
+{{Frame
+|Name gloss=Military leadership
+|Family=Cхемы лидеров, Cхемы Управления, 
+|Type=Frame
+|Status=in development
+|Entered by=Patricia,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Лидерство
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=генерал.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=генерал-полковник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=генерал-лейтенант.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=генерал-майор.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=полковник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подполковник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=майор.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=старший лейтенант.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=младший лейтенант.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=старший прапорщик.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=прапорщик.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=старшина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сержант.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=адмирал.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вице-адмирал.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=маршал.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=контр-адмирал.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капитан.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=капитан-лейтенант.n
+}}
+|LinkEnglish=Military leadership
+|Applicability=Russian
+}}

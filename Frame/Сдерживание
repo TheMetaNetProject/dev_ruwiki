@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Containment
+|FrameNet frame=Containment
+|Type=Cog
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ограниченная область
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=восполнять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=восполнить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сдерживание.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=содержать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сдерживать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сосуд.n
+}}
+|LinkEnglish=Containment
+|Applicability=Russian
+}}

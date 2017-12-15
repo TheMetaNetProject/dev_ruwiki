@@ -1,0 +1,39 @@
+{{Metaphor
+|Name gloss=POLITICS IS A WAR
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ПОЛИТИКА - ЭТО ВОЙНА
+|Metaphor.Alias.Provenance=A.P. Chudinov
+}}
+|Family=Social Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=ВОЙНА
+|Target frame=ПОЛИТИКА
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Name=COMPETITION  IS WAR
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Рядовые предвыборной кампании иногда даже не знают о стратегических планах своих командующих.
+|Example.Gloss=Privates of election campaign sometimes even don’t know about strategic plans of their commanders
+|Example.English translation=Privates of the election campaign sometimes don’t know about strategic plans of their commanders.
+|Example.Provenance=www.krasinskiy.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Правительство будет стимулировать технологическое перевооружение и помогать бизнесу получить доступ к современным технологиям.
+|Example.Gloss=Government will stimulate technological rearmament and help business to get access to modern technologies
+|Example.English translation=Government will stimulate the technological rearmament and help business to get access to modern technologies
+|Example.Provenance=Putin's speech
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Тот, кто обидит Россию не проживет и трех дней.
+|Example.Gloss=Who will offend Russia won’t live out even three days. 
+|Example.English translation=The one who offends Russia won’t live out even for three days 
+|Example.Provenance=Putin's speech
+}}
+|Entered by=Inna
+|Status=in development
+|Investigated for=Russian
+}}

@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=Controlled vehicular motion
+|Family=Cхемы движения, Схемы действий
+|Status=in development
+|Entered by=Kristina
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Управляемое движение
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=транспортное средство
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Controlled vehicular motion
+|Applicability=Russian
+}}

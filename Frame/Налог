@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Tax
+|Family=Схемы Налог
+|Type=Frame
+|Status=in development
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=налог.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=налоговый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бюджет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=дань.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=государство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ставка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=транспортный.a
+}}
+|LinkEnglish=Taxes
+|Applicability=Russian
+}}

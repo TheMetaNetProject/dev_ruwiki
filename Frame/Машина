@@ -1,0 +1,104 @@
+{{Frame
+|Name gloss=Machine
+|FrameNet frame=Gizmo
+|Family=Cхемы сущности,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=машина_сущность
+|Role.Name gloss=machine_entity
+}}{{Role
+|Role.Name=цель
+|Role.Name gloss=purpose
+|Role.Definition=цель, для которой машина предназначена
+|Role.FrameNet role=Use
+}}{{Role
+|Role.Name=функциональный_статус
+|Role.Name gloss=functional_status
+|Role.Definition=например: разбита, функциональная
+}}{{Role
+|Role.Name=оператор машины
+|Role.Name gloss=operator_of_machine
+|Role.Definition=Человек, который управляет машиной
+}}{{Role
+|Role.Name=рабочая_х-схема
+|Role.Name gloss=operating_x-schema
+|Role.Definition=например: Машина "работает"
+}}{{Role
+|Role.Name=части
+|Role.Name gloss=parts
+}}{{Role
+|Role.Name=источник_энергии
+|Role.Name gloss=power_source
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Физическая структура
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Контроль
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=машина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=аппарат.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=механизм.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=устройство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=передача.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=попсушка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=штуковина.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=новое.a устройство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=болт.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ломаться.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разбивать.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=двигатель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=мотор.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ремонт.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=репарация.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ремонтировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=восстанавливать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=смазанный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рычаг.n
+}}
+|LinkEnglish=Machine
+|Applicability=Russian
+}}

@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=HAVE KNOWLEDGE - IS HAVE AN_OBJECT
+|Aliases=
+|Tags=Program sources
+|Family=Метафоры Доступ к образованию
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=Объект
+|Target frame=Знание
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ЗНАНИЕ - ЭТО РЕСУРС
+}}
+|Entailments=
+|Examples=
+|Entered by=Metabot, 
+|Last reviewed by=Kristina
+|Status=in development, auto imported
+|LinkEnglish=HAVE KNOWLEDGE IS HAVE AN OBJECT
+}}

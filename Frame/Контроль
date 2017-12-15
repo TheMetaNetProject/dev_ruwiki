@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=Control
+|Family=Cхемы Управления,
+|Type=Frame
+|Status=in development
+|Entered by=Kristina
+|Last reviewed by=Patricia
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=сложный процесс
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=взаимодействие сила-динамика (Force-Dynamic Interaction)
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=отношение
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=руководство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=контроль.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=власть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=контролировать.v
+}}
+|LinkEnglish=Control
+|Applicability=Russian
+}}

@@ -1,0 +1,84 @@
+{{Frame
+|Name gloss=Servitude
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Авторитет
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поработить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=угнетать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=власть.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заключённый.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=заключение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=цель.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тюрьма.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=хозяин.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=слуга.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гнет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пленный.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кабала.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=плен.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=давить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=раб.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оковы.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=господство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=облагать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обложить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=порабощать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рабство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рабовладение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=освобождать.v
+}}
+|LinkEnglish=Servitude
+|Applicability=Russian
+}}

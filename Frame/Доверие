@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=Trust
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доверие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доверять.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доверяться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=траст.n
+}}
+|LinkEnglish=Trust
+|Applicability=Russian
+}}

@@ -1,0 +1,40 @@
+{{Metaphor
+|Name gloss=MORALITY - IS PURITY
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=МОРАЛЬ - ЭТО ЧИСТОТА
+|Metaphor.Alias.Provenance=Metaphors We Live By, Philosophy in the Flesh
+}}
+|Family=Метафоры Морали
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Чистота
+|Target frame=Мораль
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Обливать друг друга грязью очень опасно. Некоторые люди не знают, где помыть свои руки после выборов.
+|Example.Gloss=To pour each other (instr.case) mud very dangerous. Some people not know where to wash hands after elections.
+|Example.English translation=Throwing mud at each other is a very dangerous thing. Some people don’t know where to wash their hands after the elections
+|Example.Provenance=kommersant.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Чиновники умывают руки - разрешение они дали, а отслеживать, как медицинское средство продается и используется, в их компетенцию не входит.
+|Example.Gloss=Officials wash hands - authorization they gave,and to track how remedy sells and is used, into their competence not enter.
+|Example.English translation=Officials are washing their hands - they gave the authorization, but tracking the way a remedy is sold and used doesn't fall within their competence.
+|Example.Provenance=medrelax.narod.ru/pribor.htm
+|Example.Comments=The set expression "to wash one's hands" is used in Russian to denote reluctance of a person to participate in smth bad or illegal, to emphasize he/she is innocent. It originates from the old tradition to wash one's hands and say loudly "I'm innocent" to prove he/she has nothing to do with a certain criminal act.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Моя совесть чиста перед моей семьей и народом. Но у них совесть грязная. Они осуждены за грязные проделки в своей профессиональной деятельности.
+|Example.Gloss=My conscience pure in front of my family and people. But they are convicted for dirty shenanigans in professional activity.
+|Example.English translation=My conscience is pure in front of my family and people. But they are convicted for dirty shenanigans in their professional activity.
+|Example.Provenance=ru.hrsu.org/archives/3548
+}}
+|Entered by=Inna,
+|Last reviewed by=Kristina
+|Status=in development
+|LinkEnglish=MORALITY IS PURITY
+|Investigated for=Russian
+}}

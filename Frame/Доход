@@ -1,0 +1,17 @@
+{{Frame
+|Name gloss=Income
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=доход.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=зарплата.n
+}}
+|LinkEnglish=Income
+|Applicability=Russian
+}}

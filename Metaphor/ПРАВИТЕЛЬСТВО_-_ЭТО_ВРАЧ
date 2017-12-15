@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=GOVERNMENT - IS A_DOCTOR
+|Aliases=
+|Tags=tentative, 
+|Family=Метафоры управления, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Врач
+|Target frame=Правительство
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=РЕШЕНИЕ СОЦИАЛЬНЫХ ПРОБЛЕМ - ЭТО ЛЕЧЕНИЕ БОЛЕЗНИ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Игромания это ведь болезнь, и только наше Правительство может вылечить наше общество. 
+|Example.Gloss=Gambling is in_fact disease, and only our government can cure our society.
+|Example.English translation=Gambling is in fact a disease, and only our government can cure our society.
+|Example.Provenance=http://region.urfo.org/forums/846875.html
+}}
+|Entered by=Kristina, 
+|Status=in development
+|LinkEnglish=GOVERNMENT IS A DOCTOR 
+|Investigated for=Russian
+}}

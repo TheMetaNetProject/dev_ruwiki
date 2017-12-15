@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=Regulation
+|Family=Cхемы Управления, Cхемы регулирования
+|Type=Frame
+|Status=in development
+|Entered by=Kristina,
+|Last reviewed by=Patricia, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=регламентировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=регуляция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=регулирующий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=директива.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=правило.n
+}}
+|LinkEnglish=Regulation
+|Applicability=Russian
+}}

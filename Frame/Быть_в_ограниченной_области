@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=Being in a_Bounded Region
+|Family=Схемы структуры события, Схемы местонахождения,
+|Tags=Program sources
+|Type=Cog, Primary
+|Status=in development, auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=быть в местонахождении
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ограниченная область
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=существовать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=жить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=родиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=проживать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=грань.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=в.p
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=поставленный.a в.p
+}}
+|LinkEnglish=Being in a Bounded Region
+}}

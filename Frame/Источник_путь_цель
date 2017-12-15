@@ -1,0 +1,52 @@
+{{Frame
+|Name gloss=Source path goal
+|FrameNet frame=Source_path_goal
+|Other aliases=SPG
+|Comments=Neurally, SPG is a topographic map.
+|Family=Пространственные отношения, Образные схемы
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=источник
+|Role.Name gloss=source
+|Role.Definition=initial profiled_region
+|Role.FrameNet role=Source
+}}{{Role
+|Role.Name=путь
+|Role.Name gloss=path
+|Role.Definition=ongoing profiled_region(s)
+|Role.FrameNet role=Path
+}}{{Role
+|Role.Name=цель
+|Role.Name gloss=goal
+|Role.Definition=final profiled_region
+|Role.FrameNet role=Goal
+}}{{Role
+|Role.Name=траектор
+|Role.Name gloss=trajector
+|Role.Definition=from Trajector landmark
+|Role.FrameNet role=Trajector
+}}{{Role
+|Role.Name=ориентир
+|Role.Name gloss=landmark
+|Role.Definition=from Trajector landmark
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Траектор ориентир
+|Related frame.Description=SPG is dynamic version, in which profiled_region changes
+}}
+|Bindings={{Binding
+|Binding.Local role=траектор
+|Binding.Bound role=Trajector_landmark.trajector
+}}{{Binding
+|Binding.Local role=ориентир
+|Binding.Bound role=Trajector_landmark.landmark
+}}
+|Inferences={{Inference
+|Inference.Description=sequential ordered location inferences, e.g. if trajector is on path, then trajector has been source; if trajector is at goal, then trajector has been at source and been on path.
+}}
+|Relevant LUs=
+|LinkEnglish=Source path goal
+}}

@@ -1,0 +1,37 @@
+{{Frame
+|Name gloss=Impoverished
+|Family=Схемы Бедность, 
+|Tags=Program sources
+|Type=Frame
+|Status=in development
+|Entered by=Metabot
+|Last reviewed by=Aleksandra, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=быть в состоянии
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=состояние
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Бедность
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=беден.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бедный.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бездомный.а
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=малообеспеченный.n
+}}
+|LinkEnglish=Impoverished
+|Applicability=Russian
+}}

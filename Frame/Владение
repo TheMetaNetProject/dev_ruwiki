@@ -1,0 +1,63 @@
+{{Frame
+|Name gloss=Possession
+|FrameNet frame=Possession
+|Family=Схемы владения
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=владетель
+|Role.Name gloss=possessor 
+|Role.FrameNet role=Owner 
+}}{{Role
+|Role.Name=владение
+|Role.Name gloss=possession 
+|Role.FrameNet role=Possession 
+}}{{Role
+|Role.Name=владеть.v
+|Role.Name gloss=possessing 
+|Role.Type=х-схема
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Процесс
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Oтношение
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=владеть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=завладеть.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=иметь.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обладать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=владелец.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=собственник.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=собственность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=владение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= право.n собственности.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=обладание.n
+}}
+|LinkEnglish=Possession
+|Applicability=Russian
+}}

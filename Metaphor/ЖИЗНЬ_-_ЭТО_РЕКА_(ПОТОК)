@@ -1,0 +1,39 @@
+{{Metaphor
+|Name gloss=LIFE is A RIVER
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ЖИЗНЬ - ЭТО РЕКА (ПОТОК)
+|Metaphor.Alias.Provenance=Inna
+}}
+|Family=Life Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Река
+|Target frame=Жизнь
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Name=LIFE IS A JOURNEY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Мало найдется людей, чья жизнь от начала и до конца протекала бы гладко и ровно, в соответствии с одними и теми же убеждениями и идеалами
+|Example.Gloss=few people can be found whose life would flow smoothly and evenly from beginning to end, in accordance with the same beliefs and ideals.
+|Example.English translation=There are few people whose whole life would go on smoothly, in accordance with the same beliefs and ideals.
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Сравнивая потенциалы рождений середины ХХ века и начала XXI века, видим: «русская река жизни усохнет» в 5 раз.
+|Example.Gloss=Comparing potentials of births in the late 20 century and early 21 century, we see: "Russian river of life will dry up" in 5 times.
+|Example.English translation=If we compare the birth rate in the late 20 century and early 21 century, we'' see that the Russian river of life will be 5 times shorter.
+|Example.Provenance=В. Башлачев. Русская демография 
+}}{{Example
+|Example.Language=Russian
+|Example.Text=У нас на Арбате толпы снующих людей и жизнь бурлит
+|Example.Gloss=At us in Arbat crowds of scurrying people and life rages
+|Example.English translation=We have crouds of scurrying people in Arbat and life is raging.
+|Example.Provenance=В. Железников. Жизнь и приключения чудака
+|Example.Comments=Arbat is one of the main streets in Moscow where there is no traffic, designed only for pedestrians
+}}
+|Entered by=Inna, 
+|Status=in development
+|Investigated for=Russian
+}}

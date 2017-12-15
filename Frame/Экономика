@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=Economy
+|FrameNet frame=Economy
+|Family=Экономические схемы, 
+|Type=Frame
+|Status=in development
+|Entered by=Kristina, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=экономика.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= экономический.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=рынок.n
+}}
+|LinkEnglish=Economy
+|Applicability=Russian
+}}

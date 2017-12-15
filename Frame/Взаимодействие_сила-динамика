@@ -1,0 +1,20 @@
+{{Frame
+|Name gloss=Interaction Force-Dynamic
+|Family=Cхемы силы-динамики
+|Type=Cog
+|Status=in development
+|Entered by=Kristina, Patricia
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Сложный процесс
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Передача силы
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Force-Dynamic Interaction
+|Applicability=Russian
+}}

@@ -1,0 +1,36 @@
+{{Metaphor
+|Name gloss=CAUSING ECONOMIC HARDSHIP - IS CAUSING PHYSICAL HARM
+|Aliases=
+|Tags=Program sources
+|Family=Метафоры Бедность,Метафоры Налогообложение
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Физический вред
+|Target frame=Экономическая трудность
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ТРУДНОСТИ В ДЕЙСТВИИ - ЭТО ФИЗИЧЕСКИЙ ВРЕД
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ЭКОНОМИЧЕСКИЕ ТРУДНОСТИ - ЭТО ФИЗИЧЕСКИЙ ВРЕД
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Резкий рост налогов повредит нашей экономике.
+|Example.Gloss=The_sharp increase of_taxes will_hurt our economy.
+|Example.English translation=The sharp increase in taxes will hurt our economy.
+|Example.Provenance=http://www.golos-ameriki.ru/content/usa-taxes-increase/1205925.html
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Эксперты считают, что: повышение налоговых порог может нанести вред интересам с низким уровнем дохода.
+|Example.Gloss=Experts believe, that: increase of_tax threshold may inflict harm to_interests with low level of_income.
+|Example.English translation=Experts believe that: increase the tax threshold may harm the interests of low-income countries.
+|Example.Provenance=http://www.sourcejuice.com/1355161/2010/07/21/
+}}
+|Entered by=Metabot,
+|Last reviewed by=Kristina
+|Status=in development, auto imported
+|LinkEnglish=CAUSING ECONOMIC HARDSHIP IS CAUSING PHYSICAL HARM
+}}

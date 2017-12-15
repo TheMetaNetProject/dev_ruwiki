@@ -1,0 +1,45 @@
+{{Metaphor
+|Name gloss=NATION IS A PATIENT
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ГОСУДАРСТВО - ЭТО ПАЦИЕНТ
+|Metaphor.Alias.Provenance=A.P. Chudinov
+}}
+|Family=Social Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=ПАЦИЕНТ
+|Target frame=ГОСУДАРСТВО
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Социальные болезни подогревают интерес к политике. У нас кончились долларовые инъекции: давно пора производить свои финансовые ресурсы. 
+
+|Example.Gloss=Social diseases warm up interest to politics.  At us finished dollar injections: it’s high time to make our own financial resources.
+|Example.English translation=Social diseases are warming up the interest in politics.  We have run out of dollar injections: it’s high time to make our own financial resources.
+|Example.Provenance=vedomosti.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Сильные лекарства часть имеют побочные эффекты. И это касается как политики, так и экономики. Этот законопроект - попытка подсластить эту гоькую пилюлю.
+
+|Example.Gloss=Strong medicines often have side effects. And it touches both politics and economy. This bill is effort to sweeten this bitter pill.   
+|Example.English translation=Strong medicines often have side effects. And it is true both for politics and economy. This bill is an effort to sweeten this bitter pill.   
+|Example.Provenance=V. Popov
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Страна прочно сидит на нефтегазовой игле. 
+|Example.Gloss=Country fixedly sits on oil and gas needle. 
+|Example.English translation=The country is sitting firmly on the oil and gas needle. 
+|Example.Provenance=kommersant.ru
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Реанимация России закончена, теперь Путину надо ее развивать
+|Example.Gloss=Reanimation of Russia finished, now Putin should it develop. 
+|Example.English translation=The reanimation of Russia is over, now Putin should develop the country
+|Example.Provenance=vedomosti.ru
+}}
+|Entered by=Inna, 
+|Status=in development
+|Investigated for=Russian
+}}

@@ -1,0 +1,89 @@
+{{Frame
+|Name gloss=Government institution
+|Family=Cхемы Управления, Cхемы функции правительства, Cхемы правительства,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Kristina,
+|Roles={{Role
+|Role.Name=Правительство_целое
+|Role.Name gloss=goverment_whole
+}}{{Role
+|Role.Name=Правительство_ответственность
+|Role.Name gloss=goverment_responsibilities
+}}{{Role
+|Role.Name=Правительство_функции
+|Role.Name gloss=goverment_functions
+}}{{Role
+|Role.Name=позиции
+|Role.Name gloss=positions
+}}{{Role
+|Role.Name=позиция_обязанности
+|Role.Name gloss=position_duties
+}}{{Role
+|Role.Name=позиция_держатели
+|Role.Name gloss=position_holders
+}}{{Role
+|Role.Name=власть_структура
+|Role.Name gloss=authority_structure
+}}{{Role
+|Role.Name=подгруппы
+|Role.Name gloss=sub-groups
+|Role.Definition=например различные отделы
+}}{{Role
+|Role.Name=позиция_отношения
+|Role.Name gloss=position_relations
+|Role.Definition=например властные отношения между позициями
+}}{{Role
+|Role.Name=функциональный_статус
+|Role.Name gloss=functional_status
+|Role.Definition=Способность учреждения для выполнения функций
+}}{{Role
+|Role.Name=правила
+|Role.Name gloss=rules
+}}{{Role
+|Role.Name=власть_база
+|Role.Name gloss=authority_base
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Учреждение
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Правительство
+}}
+|Bindings={{Binding}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=район.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=районный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=правительственная.a доска.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=юрисдикция.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подсудность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=правосудие.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=подведомственность.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=правительственное.a ведомство.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=бюро.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=контора.n
+}}
+|LinkEnglish=Government institution
+|Applicability=Russian
+}}

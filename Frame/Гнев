@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=Anger
+|Family=Схемы эмоций
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Эмоция
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Телесное функционирование
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гнев.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=злость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=ярость.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=раздражение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гневный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сердитый.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=разгневанный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=раздраженный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=яростный.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=злиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=раздражаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=сердиться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=гневаться.v
+}}
+|LinkEnglish=Anger
+|Applicability=Russian
+}}

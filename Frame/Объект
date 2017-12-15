@@ -1,0 +1,57 @@
+{{Frame
+|Name gloss=Object
+|Description=Ограниченная физическая сущность
+|FrameNet frame=Entity
+|Other aliases=Physical object
+|Family=Cхемы сущности,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Patricia
+|Last reviewed by=Kristina,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ограниченная сущность
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Физическая сущность
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=оформить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=объект.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=вещь.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=предмет.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=давать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=дарить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=отдавать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=уничтожить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=получать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=получить.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=взяться.v
+}}
+|LinkEnglish=Object
+|Applicability=Russian
+}}

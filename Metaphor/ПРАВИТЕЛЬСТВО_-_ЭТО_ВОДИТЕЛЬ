@@ -1,0 +1,57 @@
+{{Metaphor
+|Name gloss=GOVERNMENT  - IS DRIVER
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT IS A DRIVER
+|Metaphor.Alias.Provenance=English Wiki
+}}
+|Family=Метафоры управления
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Управляемое автомобильное движение
+|Target frame=Действие управления
+|Mappings={{Mapping
+|Target=правитель
+|Source=контроллер движения (motion_controller)
+}}{{Mapping
+|Target=affected_jurisdiction
+|Source=vehicle
+}}{{Mapping
+|Target=governed
+|Source=passenger(s)
+}}{{Mapping
+|Target=governing_action_x-schema
+|Source=vehicle_control_x-schema
+}}{{Mapping
+|Target=governing_objectives
+|Source=direction
+}}{{Mapping
+|Target=jurisdiction_state_x-schema
+|Source=motion_x-schema
+}}{{Mapping
+|Target=affect_rate_of_change
+|Source=speed
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ПРАВИТЕЛЬСТВО - ЭТО ОСОБА
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=ЦЕЛЕУСТРЕМЛЕНОЕ ДЕЙСТВИЕ – ЭТО САМОХОДНОЕ ДВИЖЕНИЕ К МЕСТУ НАЗНАЧЕНИЯ
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Russian
+|Example.Text=Путин ведет страну в неправильном направлении.
+|Example.Gloss=Putin leads state in wrong direction.
+|Example.English translation=Putin is leading the country in the wrong direction.
+|Example.Provenance=http://gr-sila.ru/index.php/12-novost/partiya-v-dejstvii/46-vladislav-inozemtsev-putin-vedet-stranu-v-nepravilnom-napravlenii
+}}{{Example
+|Example.Language=Russian
+|Example.Text=Путин ведет страну по пути Китая.
+|Example.Gloss=Putin leads state along path China.
+|Example.English translation=Putin is leading the country on the path of China.
+}}
+|Entered by=Kristina,
+|Status=in development
+|Investigated for=Russian
+}}

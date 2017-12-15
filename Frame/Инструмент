@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Instrument
+|Type=Frame
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инструмент.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= утилита.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=инструментарий.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas= оборудование.n
+}}
+|LinkEnglish=Instrument
+|Applicability=Russian
+}}

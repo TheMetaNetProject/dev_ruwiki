@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=Parasite
+|Entered by=Patricia
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=искоренение.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высосать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=высасывать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=паразит.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=тунеядец.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пиявка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=питаться.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кровопийца.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=паразитировать.v
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=паразитический.a
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=паразитарный.a
+}}
+|LinkEnglish=Parasite
+|Applicability=Russian
+}}

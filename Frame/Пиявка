@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=Leech
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Паразит
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=пиявка.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кровопийца.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кровосос.n
+}}{{LUs
+|LUs.Language=Russian
+|LUs.Lemmas=кровососущий.a
+}}
+|Applicability=Russian
+}}
